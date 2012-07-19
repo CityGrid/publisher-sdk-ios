@@ -1,0 +1,31 @@
+Requirments
+- A Mac with Lion (although Snow Leopard still works)
+- Xcode 4.1 (although 4.0.2 still works)
+
+There are two projects as part of the iOS SDK.
+- library
+- example
+
+Run ./distribute.sh to build a dmg that can be shared and uploaded.
+
+The library directory contains the code to build the actual library (Static Framework)
+itself. You could also build it independently using the Xcode project or
+the library/distribute.sh.
+
+The example directory contains the code to build an example app that uses the
+framework in the same manner that a developer might use it. This is built and
+directly using Xcode. The framework can be copied from the library directory
+using example/update.sh.
+
+Please, note after running ./distribute.sh the CityGrid binary file will be
+updated as Xcode compiles it uniquely each time.
+
+Versioning
+To update the versions they can be updated in 3 places.
+./distribute.sh (DMG_NAME)
+./library/distribute.sh (FRAMEWORK_VERSION, FRAMEWORK_SHORT_VERSION)
+./example/Application/CGEInfo.plist (CFBundleVersion, CFBundleShortVersionString)
+
+Note, the FRAMEWORK_VERSION and CFBundleShortVersionString) should just be
+incremented for each release. It also needs to be unique even across all
+branches.

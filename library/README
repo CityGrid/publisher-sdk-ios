@@ -1,0 +1,8 @@
+The tests run in Simulation mode (i.e. [CityGrid setSimulation:YES]). These
+files are in Library/Simulation/* and the simulation mode will take the
+URL and map it to the file name by converting the URI to a file where the
+/ characters are replaced by _ characters.
+
+i.e. here is how a simulation is mapped to a file
+http://api.citygridmedia.com/content/places/v2/search/where
+content_places_v2_search_where.json

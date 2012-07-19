@@ -1,0 +1,473 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/1998/REC-html40-19980424/loose.dtd">
+<html>
+<head>
+<title>CityGrid.h</title>
+<meta http-equiv="Content-Type" content="text/html; charset=ascii">
+<meta name="generator" content="HeaderDoc">
+<meta name="xcode-display" content="render">
+<style><!--
+#tocMenu {
+		display: block;
+		position:fixed;
+		top:0px;
+		left:0px;
+		width:210px;
+		height:100%;
+		background:transparent;
+}
+#bodyText {
+		margin-left: 210px;
+}
+--></style>
+<script language="JavaScript" type="text/javascript"><!--
+function hidetoc() {
+	var origURL = parent.document.URL;
+	var contentURL = origURL.substring(origURL.indexOf('?')+1, origURL.length);
+	if (contentURL.length == origURL.length) {
+		jumpPos = origURL.substring(origURL.indexOf('#')+1, origURL.length);
+	}
+	if (contentURL == "hidetoc") {
+		var toc = document.getElementById('tocMenu');
+		var body = document.getElementById('bodyText');
+		if (toc && body) {
+			toc.style.display = 'none';
+			body.style.marginLeft = '0px';
+		}
+	}
+}
+--></script><style type="text/css"><!--.keyword {background:#ffffff; color:#761550;}.template {background:#ffffff; color:#761550;}.number {background: #ffffff; color:#0000ff;}.function {background:#ffffff; color:#000000;}.string {background: #ffffff; color:#891315;}.preprocessor {background:#ffffff; color:#236e25}.comment {background:#ffffff; color:#236e25}.char {background: #ffffff; color:#0000ff;}.var {background:#ffffff; color:#000000;}.type {background:#ffffff; color:#761550;}.param {background:#ffffff; color:#000000;}a:link {text-decoration: none; font-family: lucida grande, geneva, helvetica, arial, sans-serif; font-size: small; color: #0000ff;}a:visited {text-decoration: none; font-family: lucida grande, geneva, helvetica, arial, sans-serif; font-size: small; color: #0000ff;}a:visited:hover {text-decoration: underline; font-family: lucida grande, geneva, helvetica, arial, sans-serif; font-size: small; color: #ff6600;}a:active {text-decoration: none; font-family: lucida grande, geneva, helvetica, arial, sans-serif; font-size: small; color: #ff6600;}a:hover {text-decoration: underline; font-family: lucida grande, geneva, helvetica, arial, sans-serif; font-size: small; color: #ff6600;}h4 {text-decoration: none; font-family: lucida grande, geneva, helvetica, arial, sans-serif; font-size: tiny; font-weight: bold;}body {text-decoration: none; font-family: lucida grande, geneva, helvetica, arial, sans-serif; font-size: 10pt;}.list_indent { margin-left: 40px; }.declaration_indent { margin-left: 40px; }.param_indent { margin-left: 40px; }.group_indent { margin-left: 40px; }.group_desc_indent { margin-left: 20px; }.warning_indent { margin-left: 40px; }.important_indent { margin-left: 40px; }.hd_tocAccess { font-style: italic; font-size: 10px; font-weight: normal; color: #303030; }--></style>
+</head>
+<body bgcolor="#ffffff" onload="hidetoc();">
+
+<!-- headerDoc=Header;  uid=//apple_ref/doc/header/CityGrid.h;   name=CityGrid.h -->
+<a name="//apple_ref/doc/header/CityGrid.h"></a>
+<div id="tocMenu">
+<iframe id="toc_content" name="toc_content" src="toc.html" width="210" height="100%" align="left" frameborder="0">This document set is best viewed in a browser that supports iFrames.</iframe>
+</div>
+<div id="bodyText">
+<a name="top"></a>
+<hr>
+<table border="0" cellpadding="2" cellspacing="2" width="300"><tr><td valign="top" height="12" colspan="5">
+<h1><a name="CityGrid.h">CityGrid.h</a></h1>
+</td></tr></table>
+<hr>
+<p><!-- begin abstract --></p>
+<p>CityGrid SDK
+<!-- end abstract --></p>
+<p></p>
+<div class="declaration_indent">
+</div>
+<h5 class="tight">
+<font face="Lucida Grande,Helvetica,Arial">Discussion</font>
+</h5>
+<!-- begin discussion --><p>An Objective-C library that provides an interface to the CityGrid REST API's as
+documented at http://docs.citygridmedia.com/display/citygridv2/CityGrid+APIs.
+<!-- end discussion -->
+</p>
+<p></p>
+<hr>
+<br><a name="HeaderDoc_groups"><h2>Groups</h2></a>
+
+<h3>Content Builders</h3>
+<div class="group_desc_indent">
+<p> </p>
+</div>
+<h4>Group members:</h4>
+<div class="group_indent">
+<dl>
+<dt><tt><a href="index.html#//apple_ref/c/instm/offersDetail" logicalPath="//apple_ref/c/instm/offersDetail" target="_top">-offersDetail</a></tt></dt>
+<dd></dd>
+<dt><tt><a href="index.html#//apple_ref/c/instm/offersSearch" logicalPath="//apple_ref/c/instm/offersSearch" target="_top">-offersSearch</a></tt></dt>
+<dd></dd>
+<dt><tt><a href="index.html#//apple_ref/c/instm/placesDetail" logicalPath="//apple_ref/c/instm/placesDetail" target="_top">-placesDetail</a></tt></dt>
+<dd></dd>
+<dt><tt><a href="index.html#//apple_ref/c/instm/placesSearch_DONTLINK_0" logicalPath="//apple_ref/c/instm/placesSearch_DONTLINK_0" target="_top">-placesSearch</a></tt></dt>
+<dd></dd>
+</dl>
+</div>
+<p>&#160;</p>
+<h3>Configuration for the CityGrid SDK</h3>
+<div class="group_desc_indent">
+<p> </p>
+</div>
+<h4>Group members:</h4>
+<div class="group_indent">
+<dl>
+<dt><tt><a href="index.html#//apple_ref/c/instm/debug" logicalPath="//apple_ref/c/instm/debug" target="_top">-debug</a></tt></dt>
+<dd></dd>
+<dt><tt><a href="index.html#//apple_ref/c/instm/placement" logicalPath="//apple_ref/c/instm/placement" target="_top">-placement</a></tt></dt>
+<dd></dd>
+<dt><tt><a href="index.html#//apple_ref/c/instm/publisher" logicalPath="//apple_ref/c/instm/publisher" target="_top">-publisher</a></tt></dt>
+<dd></dd>
+<dt><tt><a href="index.html#//apple_ref/c/instm/setDebug:" logicalPath="//apple_ref/c/instm/setDebug:" target="_top">-setDebug:</a></tt></dt>
+<dd></dd>
+<dt><tt><a href="index.html#//apple_ref/c/instm/setPlacement:" logicalPath="//apple_ref/c/instm/setPlacement:" target="_top">-setPlacement:</a></tt></dt>
+<dd></dd>
+<dt><tt><a href="index.html#//apple_ref/c/instm/setPublisher:" logicalPath="//apple_ref/c/instm/setPublisher:" target="_top">-setPublisher:</a></tt></dt>
+<dd></dd>
+<dt><tt><a href="index.html#//apple_ref/c/instm/setSimulation:" logicalPath="//apple_ref/c/instm/setSimulation:" target="_top">-setSimulation:</a></tt></dt>
+<dd></dd>
+<dt><tt><a href="index.html#//apple_ref/c/instm/setTimeout:" logicalPath="//apple_ref/c/instm/setTimeout:" target="_top">-setTimeout:</a></tt></dt>
+<dd></dd>
+<dt><tt><a href="index.html#//apple_ref/c/instm/simulation" logicalPath="//apple_ref/c/instm/simulation" target="_top">-simulation</a></tt></dt>
+<dd></dd>
+<dt><tt><a href="index.html#//apple_ref/c/instm/timeout" logicalPath="//apple_ref/c/instm/timeout" target="_top">-timeout</a></tt></dt>
+<dd></dd>
+</dl>
+</div>
+<p>&#160;</p>
+<h3>Ads Builders</h3>
+<div class="group_desc_indent">
+<p> </p>
+</div>
+<h4>Group members:</h4>
+<div class="group_indent">
+<dl>
+<dt><tt><a href="index.html#//apple_ref/c/instm/adsCustom" logicalPath="//apple_ref/c/instm/adsCustom" target="_top">-adsCustom</a></tt></dt>
+<dd></dd>
+<dt><tt><a href="index.html#//apple_ref/c/instm/adsMobile" logicalPath="//apple_ref/c/instm/adsMobile" target="_top">-adsMobile</a></tt></dt>
+<dd></dd>
+<dt><tt><a href="index.html#//apple_ref/c/instm/adsTracker" logicalPath="//apple_ref/c/instm/adsTracker" target="_top">-adsTracker</a></tt></dt>
+<dd></dd>
+</dl>
+</div>
+<hr>
+<a name="HeaderDoc_methods"></a>
+<h2>Methods</h2>
+<dl>
+<dt><tt><a href="index.html#//apple_ref/c/instm/adsCustom" target="_top">-adsCustom</a></tt></dt>
+<dd></dd>
+<dt><tt><a href="index.html#//apple_ref/c/instm/adsMobile" target="_top">-adsMobile</a></tt></dt>
+<dd></dd>
+<dt><tt><a href="index.html#//apple_ref/c/instm/adsTracker" target="_top">-adsTracker</a></tt></dt>
+<dd></dd>
+<dt><tt><a href="index.html#//apple_ref/c/instm/debug" target="_top">-debug</a></tt></dt>
+<dd></dd>
+<dt><tt><a href="index.html#//apple_ref/c/instm/offersDetail" target="_top">-offersDetail</a></tt></dt>
+<dd></dd>
+<dt><tt><a href="index.html#//apple_ref/c/instm/offersSearch" target="_top">-offersSearch</a></tt></dt>
+<dd></dd>
+<dt><tt><a href="index.html#//apple_ref/c/instm/placement" target="_top">-placement</a></tt></dt>
+<dd></dd>
+<dt><tt><a href="index.html#//apple_ref/c/instm/placesDetail" target="_top">-placesDetail</a></tt></dt>
+<dd></dd>
+<dt><tt><a href="index.html#//apple_ref/c/instm/placesSearch_DONTLINK_0" target="_top">-placesSearch</a></tt></dt>
+<dd></dd>
+<dt><tt><a href="index.html#//apple_ref/c/instm/publisher" target="_top">-publisher</a></tt></dt>
+<dd></dd>
+<dt><tt><a href="index.html#//apple_ref/c/instm/setDebug:" target="_top">-setDebug:</a></tt></dt>
+<dd></dd>
+<dt><tt><a href="index.html#//apple_ref/c/instm/setPlacement:" target="_top">-setPlacement:</a></tt></dt>
+<dd></dd>
+<dt><tt><a href="index.html#//apple_ref/c/instm/setPublisher:" target="_top">-setPublisher:</a></tt></dt>
+<dd></dd>
+<dt><tt><a href="index.html#//apple_ref/c/instm/setSimulation:" target="_top">-setSimulation:</a></tt></dt>
+<dd></dd>
+<dt><tt><a href="index.html#//apple_ref/c/instm/setTimeout:" target="_top">-setTimeout:</a></tt></dt>
+<dd></dd>
+<dt><tt><a href="index.html#//apple_ref/c/instm/simulation" target="_top">-simulation</a></tt></dt>
+<dd></dd>
+<dt><tt><a href="index.html#//apple_ref/c/instm/timeout" target="_top">-timeout</a></tt></dt>
+<dd></dd>
+</dl>
+<hr>
+<!-- headerDoc=instm;  uid=//apple_ref/c/instm/adsCustom;   name=adsCustom --><a name="//apple_ref/c/instm/adsCustom"></a>
+<table border="0" cellpadding="2" cellspacing="2" width="300"><tr><td valign="top" height="12" colspan="5">
+<h3><a name="adsCustom">adsCustom</a></h3>
+</td></tr></table>
+<hr>
+<p></p>
+<div class="declaration_indent">
+<pre>+ (<!-- a logicalPath="//apple_ref/c/cl/CGAdsCustom //apple_ref/c/tdef/CGAdsCustom //apple_ref/c/tag/CGAdsCustom //apple_ref/c/econst/CGAdsCustom //apple_ref/c/struct/CGAdsCustom //apple_ref/c/clconst/CGAdsCustom //apple_ref/c/intf/CGAdsCustom" --><span class="type">CGAdsCustom</span><!-- /a --><span class="type">*</span>) <!-- a logicalPath="//apple_ref/c/econst/adsCustom //apple_ref/c/data/adsCustom" --><span class="var">adsCustom</span><!-- /a -->;  </pre>
+</div>
+<h5 class="tight">
+<font face="Lucida Grande,Helvetica,Arial">Discussion</font>
+</h5>
+<!-- begin discussion --><p>Gets the builder for invoking ad searches. The builder will default
+to the global publisher and timeout.
+<!-- end discussion -->
+</p>
+<p></p>
+<hr>
+<!-- headerDoc=instm;  uid=//apple_ref/c/instm/adsMobile;   name=adsMobile --><a name="//apple_ref/c/instm/adsMobile"></a>
+<table border="0" cellpadding="2" cellspacing="2" width="300"><tr><td valign="top" height="12" colspan="5">
+<h3><a name="adsMobile">adsMobile</a></h3>
+</td></tr></table>
+<hr>
+<p></p>
+<div class="declaration_indent">
+<pre>+ (<!-- a logicalPath="//apple_ref/c/cl/CGAdsMobile //apple_ref/c/tdef/CGAdsMobile //apple_ref/c/tag/CGAdsMobile //apple_ref/c/econst/CGAdsMobile //apple_ref/c/struct/CGAdsMobile //apple_ref/c/clconst/CGAdsMobile //apple_ref/c/intf/CGAdsMobile" --><span class="type">CGAdsMobile</span><!-- /a --><span class="type">*</span>) <!-- a logicalPath="//apple_ref/c/econst/adsMobile //apple_ref/c/data/adsMobile" --><span class="var">adsMobile</span><!-- /a -->;  </pre>
+</div>
+<h5 class="tight">
+<font face="Lucida Grande,Helvetica,Arial">Discussion</font>
+</h5>
+<!-- begin discussion --><p>Gets the builder for invoking ad searches that return a mobile banner.
+The builder will default to the global publisher and timeout.
+<!-- end discussion -->
+</p>
+<p></p>
+<hr>
+<!-- headerDoc=instm;  uid=//apple_ref/c/instm/adsTracker;   name=adsTracker --><a name="//apple_ref/c/instm/adsTracker"></a>
+<table border="0" cellpadding="2" cellspacing="2" width="300"><tr><td valign="top" height="12" colspan="5">
+<h3><a name="adsTracker">adsTracker</a></h3>
+</td></tr></table>
+<hr>
+<p></p>
+<div class="declaration_indent">
+<pre>+ (<!-- a logicalPath="//apple_ref/c/cl/CGAdsTracker //apple_ref/c/tdef/CGAdsTracker //apple_ref/c/tag/CGAdsTracker //apple_ref/c/econst/CGAdsTracker //apple_ref/c/struct/CGAdsTracker //apple_ref/c/clconst/CGAdsTracker //apple_ref/c/intf/CGAdsTracker" --><span class="type">CGAdsTracker</span><!-- /a --><span class="type">*</span>) <!-- a logicalPath="//apple_ref/c/econst/adsTracker //apple_ref/c/data/adsTracker" --><span class="var">adsTracker</span><!-- /a -->;  </pre>
+</div>
+<h5 class="tight">
+<font face="Lucida Grande,Helvetica,Arial">Discussion</font>
+</h5>
+<!-- begin discussion --><p>Gets the builder for invoking ad searches that return a mobile banner.
+The builder will default to the global publisher and timeout.
+<!-- end discussion -->
+</p>
+<p></p>
+<hr>
+<!-- headerDoc=instm;  uid=//apple_ref/c/instm/debug;   name=debug --><a name="//apple_ref/c/instm/debug"></a>
+<table border="0" cellpadding="2" cellspacing="2" width="300"><tr><td valign="top" height="12" colspan="5">
+<h3><a name="debug">debug</a></h3>
+</td></tr></table>
+<hr>
+<p></p>
+<div class="declaration_indent">
+<pre>+ (<!-- a logicalPath="//apple_ref/c/cl/BOOL //apple_ref/c/tdef/BOOL //apple_ref/c/tag/BOOL //apple_ref/c/econst/BOOL //apple_ref/c/struct/BOOL //apple_ref/c/clconst/BOOL //apple_ref/c/intf/BOOL" --><span class="type">BOOL</span><!-- /a -->) <!-- a logicalPath="//apple_ref/c/econst/debug //apple_ref/c/data/debug" --><span class="var">debug</span><!-- /a -->;  </pre>
+</div>
+<h5 class="tight">
+<font face="Lucida Grande,Helvetica,Arial">Discussion</font>
+</h5>
+<!-- begin discussion --><p>Gets whether any debug information is displayed.
+<!-- end discussion -->
+</p>
+<p></p>
+<hr>
+<!-- headerDoc=instm;  uid=//apple_ref/c/instm/offersDetail;   name=offersDetail --><a name="//apple_ref/c/instm/offersDetail"></a>
+<table border="0" cellpadding="2" cellspacing="2" width="300"><tr><td valign="top" height="12" colspan="5">
+<h3><a name="offersDetail">offersDetail</a></h3>
+</td></tr></table>
+<hr>
+<p></p>
+<div class="declaration_indent">
+<pre>+ (<!-- a logicalPath="//apple_ref/c/cl/CGOffersDetail //apple_ref/c/tdef/CGOffersDetail //apple_ref/c/tag/CGOffersDetail //apple_ref/c/econst/CGOffersDetail //apple_ref/c/struct/CGOffersDetail //apple_ref/c/clconst/CGOffersDetail //apple_ref/c/intf/CGOffersDetail" --><span class="type">CGOffersDetail</span><!-- /a --><span class="type">*</span>) <!-- a logicalPath="//apple_ref/c/econst/offersDetail //apple_ref/c/data/offersDetail" --><span class="var">offersDetail</span><!-- /a -->;  </pre>
+</div>
+<h5 class="tight">
+<font face="Lucida Grande,Helvetica,Arial">Discussion</font>
+</h5>
+<!-- begin discussion --><p>Gets the builder for getting an offer for a specific location. The builder
+will default to the global publisher and timeout.
+<!-- end discussion -->
+</p>
+<p></p>
+<hr>
+<!-- headerDoc=instm;  uid=//apple_ref/c/instm/offersSearch;   name=offersSearch --><a name="//apple_ref/c/instm/offersSearch"></a>
+<table border="0" cellpadding="2" cellspacing="2" width="300"><tr><td valign="top" height="12" colspan="5">
+<h3><a name="offersSearch">offersSearch</a></h3>
+</td></tr></table>
+<hr>
+<p></p>
+<div class="declaration_indent">
+<pre>+ (<!-- a logicalPath="//apple_ref/c/cl/CGOffersSearch //apple_ref/c/tdef/CGOffersSearch //apple_ref/c/tag/CGOffersSearch //apple_ref/c/econst/CGOffersSearch //apple_ref/c/struct/CGOffersSearch //apple_ref/c/clconst/CGOffersSearch //apple_ref/c/intf/CGOffersSearch" --><span class="type">CGOffersSearch</span><!-- /a --><span class="type">*</span>) <!-- a logicalPath="//apple_ref/c/econst/offersSearch //apple_ref/c/data/offersSearch" --><span class="var">offersSearch</span><!-- /a -->;  </pre>
+</div>
+<h5 class="tight">
+<font face="Lucida Grande,Helvetica,Arial">Discussion</font>
+</h5>
+<!-- begin discussion --><p>Gets the builder for invoking offers searches. The builder will default
+to the global publisher and timeout.
+<!-- end discussion -->
+</p>
+<p></p>
+<hr>
+<!-- headerDoc=instm;  uid=//apple_ref/c/instm/placement;   name=placement --><a name="//apple_ref/c/instm/placement"></a>
+<table border="0" cellpadding="2" cellspacing="2" width="300"><tr><td valign="top" height="12" colspan="5">
+<h3><a name="placement">placement</a></h3>
+</td></tr></table>
+<hr>
+<p></p>
+<div class="declaration_indent">
+<pre>+ (<!-- a logicalPath="//apple_ref/c/cl/NSString //apple_ref/c/tdef/NSString //apple_ref/c/tag/NSString //apple_ref/c/econst/NSString //apple_ref/c/struct/NSString //apple_ref/c/clconst/NSString //apple_ref/c/intf/NSString" --><span class="type">NSString</span><!-- /a --><span class="type">*</span>) <!-- a logicalPath="//apple_ref/c/econst/placement //apple_ref/c/data/placement" --><span class="var">placement</span><!-- /a -->;  </pre>
+</div>
+<h5 class="tight">
+<font face="Lucida Grande,Helvetica,Arial">Discussion</font>
+</h5>
+<!-- begin discussion --><p>Gets the global placement that assists a developer in breakdowns for publisher reports
+<!-- end discussion -->
+</p>
+<p></p>
+<hr>
+<!-- headerDoc=instm;  uid=//apple_ref/c/instm/placesDetail;   name=placesDetail --><a name="//apple_ref/c/instm/placesDetail"></a>
+<table border="0" cellpadding="2" cellspacing="2" width="300"><tr><td valign="top" height="12" colspan="5">
+<h3><a name="placesDetail">placesDetail</a></h3>
+</td></tr></table>
+<hr>
+<p></p>
+<div class="declaration_indent">
+<pre>+ (<!-- a logicalPath="//apple_ref/c/cl/CGPlacesDetail //apple_ref/c/tdef/CGPlacesDetail //apple_ref/c/tag/CGPlacesDetail //apple_ref/c/econst/CGPlacesDetail //apple_ref/c/struct/CGPlacesDetail //apple_ref/c/clconst/CGPlacesDetail //apple_ref/c/intf/CGPlacesDetail" --><span class="type">CGPlacesDetail</span><!-- /a --><span class="type">*</span>) <!-- a logicalPath="//apple_ref/c/econst/placesDetail //apple_ref/c/data/placesDetail" --><span class="var">placesDetail</span><!-- /a -->;  </pre>
+</div>
+<h5 class="tight">
+<font face="Lucida Grande,Helvetica,Arial">Discussion</font>
+</h5>
+<!-- begin discussion --><p>Gets the builder for getting a detail for a place. The builder will default
+to the global publisher and timeout.
+<!-- end discussion -->
+</p>
+<p></p>
+<hr>
+<!-- headerDoc=instm;  uid=//apple_ref/c/instm/placesSearch_DONTLINK_0;   name=placesSearch --><a name="//apple_ref/c/instm/placesSearch_DONTLINK_0"></a>
+<table border="0" cellpadding="2" cellspacing="2" width="300"><tr><td valign="top" height="12" colspan="5">
+<h3><a name="placesSearch">placesSearch</a></h3>
+</td></tr></table>
+<hr>
+<p></p>
+<div class="declaration_indent">
+<pre>+ (<!-- a logicalPath="//apple_ref/c/cl/CGPlacesSearch //apple_ref/c/tdef/CGPlacesSearch //apple_ref/c/tag/CGPlacesSearch //apple_ref/c/econst/CGPlacesSearch //apple_ref/c/struct/CGPlacesSearch //apple_ref/c/clconst/CGPlacesSearch //apple_ref/c/intf/CGPlacesSearch" --><span class="type">CGPlacesSearch</span><!-- /a --><span class="type">*</span>) <!-- a logicalPath="//apple_ref/c/econst/placesSearch //apple_ref/c/data/placesSearch" --><span class="var">placesSearch</span><!-- /a -->;  </pre>
+</div>
+<h5 class="tight">
+<font face="Lucida Grande,Helvetica,Arial">Discussion</font>
+</h5>
+<!-- begin discussion --><p>Gets the builder for invoking place searches. The builder will default
+to the global publisher and timeout.
+<!-- end discussion -->
+</p>
+<p></p>
+<hr>
+<!-- headerDoc=instm;  uid=//apple_ref/c/instm/publisher;   name=publisher --><a name="//apple_ref/c/instm/publisher"></a>
+<table border="0" cellpadding="2" cellspacing="2" width="300"><tr><td valign="top" height="12" colspan="5">
+<h3><a name="publisher">publisher</a></h3>
+</td></tr></table>
+<hr>
+<p></p>
+<div class="declaration_indent">
+<pre>+ (<!-- a logicalPath="//apple_ref/c/cl/NSString //apple_ref/c/tdef/NSString //apple_ref/c/tag/NSString //apple_ref/c/econst/NSString //apple_ref/c/struct/NSString //apple_ref/c/clconst/NSString //apple_ref/c/intf/NSString" --><span class="type">NSString</span><!-- /a --><span class="type">*</span>) <!-- a logicalPath="//apple_ref/c/econst/publisher //apple_ref/c/data/publisher" --><span class="var">publisher</span><!-- /a -->;  </pre>
+</div>
+<h5 class="tight">
+<font face="Lucida Grande,Helvetica,Arial">Discussion</font>
+</h5>
+<!-- begin discussion --><p>Gets the global publisher that identifies a developer.
+<!-- end discussion -->
+</p>
+<p></p>
+<hr>
+<!-- headerDoc=instm;  uid=//apple_ref/c/instm/setDebug:;   name=setDebug: --><a name="//apple_ref/c/instm/setDebug:"></a>
+<table border="0" cellpadding="2" cellspacing="2" width="300"><tr><td valign="top" height="12" colspan="5">
+<h3><a name="setDebug:">setDebug:</a></h3>
+</td></tr></table>
+<hr>
+<p></p>
+<div class="declaration_indent">
+<pre>+ (<!-- a logicalPath="//apple_ref/c/cl/void //apple_ref/c/tdef/void //apple_ref/c/tag/void //apple_ref/c/econst/void //apple_ref/c/struct/void //apple_ref/c/clconst/void //apple_ref/c/intf/void" --><span class="type">void</span><!-- /a -->) <!-- a logicalPath="//apple_ref/c/instm/setDebug //apple_ref/c/clm/setDebug //apple_ref/c/intfcm/setDebug //apple_ref/c/intfm/setDebug //apple_ref/c/func/setDebug //apple_ref/c/ftmplt/setDebug //apple_ref/c/defn/setDebug //apple_ref/c/macro/setDebug" --><span class="function">setDebug</span><!-- /a -->:(<!-- a logicalPath="//apple_ref/c/cl/BOOL //apple_ref/c/tdef/BOOL //apple_ref/c/tag/BOOL //apple_ref/c/econst/BOOL //apple_ref/c/struct/BOOL //apple_ref/c/clconst/BOOL //apple_ref/c/intf/BOOL" --><span class="type">BOOL</span><!-- /a -->) <!-- a logicalPath="//apple_ref/c/econst/debug //apple_ref/c/data/debug" --><span class="var">debug</span><!-- /a -->;  </pre>
+</div>
+<h5 class="tight">
+<font face="Lucida Grande,Helvetica,Arial">Discussion</font>
+</h5>
+<!-- begin discussion --><p>Sets whether any debug information is displayed.
+<!-- end discussion -->
+</p>
+<p></p>
+<hr>
+<!-- headerDoc=instm;  uid=//apple_ref/c/instm/setPlacement:;   name=setPlacement: --><a name="//apple_ref/c/instm/setPlacement:"></a>
+<table border="0" cellpadding="2" cellspacing="2" width="300"><tr><td valign="top" height="12" colspan="5">
+<h3><a name="setPlacement:">setPlacement:</a></h3>
+</td></tr></table>
+<hr>
+<p></p>
+<div class="declaration_indent">
+<pre>+ (<!-- a logicalPath="//apple_ref/c/cl/void //apple_ref/c/tdef/void //apple_ref/c/tag/void //apple_ref/c/econst/void //apple_ref/c/struct/void //apple_ref/c/clconst/void //apple_ref/c/intf/void" --><span class="type">void</span><!-- /a -->) <!-- a logicalPath="//apple_ref/c/instm/setPlacement //apple_ref/c/clm/setPlacement //apple_ref/c/intfcm/setPlacement //apple_ref/c/intfm/setPlacement //apple_ref/c/func/setPlacement //apple_ref/c/ftmplt/setPlacement //apple_ref/c/defn/setPlacement //apple_ref/c/macro/setPlacement" --><span class="function">setPlacement</span><!-- /a -->:(<!-- a logicalPath="//apple_ref/c/cl/NSString //apple_ref/c/tdef/NSString //apple_ref/c/tag/NSString //apple_ref/c/econst/NSString //apple_ref/c/struct/NSString //apple_ref/c/clconst/NSString //apple_ref/c/intf/NSString" --><span class="type">NSString</span><!-- /a --><span class="type">*</span>) <!-- a logicalPath="//apple_ref/c/econst/placement //apple_ref/c/data/placement" --><span class="var">placement</span><!-- /a -->;  </pre>
+</div>
+<h5 class="tight">
+<font face="Lucida Grande,Helvetica,Arial">Discussion</font>
+</h5>
+<!-- begin discussion --><p>Sets the global placement that assists a developer in breakdowns for publisher reports
+<!-- end discussion -->
+</p>
+<p></p>
+<hr>
+<!-- headerDoc=instm;  uid=//apple_ref/c/instm/setPublisher:;   name=setPublisher: --><a name="//apple_ref/c/instm/setPublisher:"></a>
+<table border="0" cellpadding="2" cellspacing="2" width="300"><tr><td valign="top" height="12" colspan="5">
+<h3><a name="setPublisher:">setPublisher:</a></h3>
+</td></tr></table>
+<hr>
+<p></p>
+<div class="declaration_indent">
+<pre>+ (<!-- a logicalPath="//apple_ref/c/cl/void //apple_ref/c/tdef/void //apple_ref/c/tag/void //apple_ref/c/econst/void //apple_ref/c/struct/void //apple_ref/c/clconst/void //apple_ref/c/intf/void" --><span class="type">void</span><!-- /a -->) <!-- a logicalPath="//apple_ref/c/instm/setPublisher //apple_ref/c/clm/setPublisher //apple_ref/c/intfcm/setPublisher //apple_ref/c/intfm/setPublisher //apple_ref/c/func/setPublisher //apple_ref/c/ftmplt/setPublisher //apple_ref/c/defn/setPublisher //apple_ref/c/macro/setPublisher" --><span class="function">setPublisher</span><!-- /a -->:(<!-- a logicalPath="//apple_ref/c/cl/NSString //apple_ref/c/tdef/NSString //apple_ref/c/tag/NSString //apple_ref/c/econst/NSString //apple_ref/c/struct/NSString //apple_ref/c/clconst/NSString //apple_ref/c/intf/NSString" --><span class="type">NSString</span><!-- /a --><span class="type">*</span>) <!-- a logicalPath="//apple_ref/c/econst/publisher //apple_ref/c/data/publisher" --><span class="var">publisher</span><!-- /a -->;  </pre>
+</div>
+<h5 class="tight">
+<font face="Lucida Grande,Helvetica,Arial">Discussion</font>
+</h5>
+<!-- begin discussion --><p>Sets the global publisher that identifies a developer.
+<!-- end discussion -->
+</p>
+<p></p>
+<hr>
+<!-- headerDoc=instm;  uid=//apple_ref/c/instm/setSimulation:;   name=setSimulation: --><a name="//apple_ref/c/instm/setSimulation:"></a>
+<table border="0" cellpadding="2" cellspacing="2" width="300"><tr><td valign="top" height="12" colspan="5">
+<h3><a name="setSimulation:">setSimulation:</a></h3>
+</td></tr></table>
+<hr>
+<p></p>
+<div class="declaration_indent">
+<pre>+ (<!-- a logicalPath="//apple_ref/c/cl/void //apple_ref/c/tdef/void //apple_ref/c/tag/void //apple_ref/c/econst/void //apple_ref/c/struct/void //apple_ref/c/clconst/void //apple_ref/c/intf/void" --><span class="type">void</span><!-- /a -->) <!-- a logicalPath="//apple_ref/c/instm/setSimulation //apple_ref/c/clm/setSimulation //apple_ref/c/intfcm/setSimulation //apple_ref/c/intfm/setSimulation //apple_ref/c/func/setSimulation //apple_ref/c/ftmplt/setSimulation //apple_ref/c/defn/setSimulation //apple_ref/c/macro/setSimulation" --><span class="function">setSimulation</span><!-- /a -->:(<!-- a logicalPath="//apple_ref/c/cl/BOOL //apple_ref/c/tdef/BOOL //apple_ref/c/tag/BOOL //apple_ref/c/econst/BOOL //apple_ref/c/struct/BOOL //apple_ref/c/clconst/BOOL //apple_ref/c/intf/BOOL" --><span class="type">BOOL</span><!-- /a -->) <!-- a logicalPath="//apple_ref/c/econst/simulation //apple_ref/c/data/simulation" --><span class="var">simulation</span><!-- /a -->;  </pre>
+</div>
+<h5 class="tight">
+<font face="Lucida Grande,Helvetica,Arial">Discussion</font>
+</h5>
+<!-- begin discussion --><p>Sets whether any calls are made to the API or all network activity is simulated.
+<!-- end discussion -->
+</p>
+<p></p>
+<hr>
+<!-- headerDoc=instm;  uid=//apple_ref/c/instm/setTimeout:;   name=setTimeout: --><a name="//apple_ref/c/instm/setTimeout:"></a>
+<table border="0" cellpadding="2" cellspacing="2" width="300"><tr><td valign="top" height="12" colspan="5">
+<h3><a name="setTimeout:">setTimeout:</a></h3>
+</td></tr></table>
+<hr>
+<p></p>
+<div class="declaration_indent">
+<pre>+ (<!-- a logicalPath="//apple_ref/c/cl/void //apple_ref/c/tdef/void //apple_ref/c/tag/void //apple_ref/c/econst/void //apple_ref/c/struct/void //apple_ref/c/clconst/void //apple_ref/c/intf/void" --><span class="type">void</span><!-- /a -->) <!-- a logicalPath="//apple_ref/c/instm/setTimeout //apple_ref/c/clm/setTimeout //apple_ref/c/intfcm/setTimeout //apple_ref/c/intfm/setTimeout //apple_ref/c/func/setTimeout //apple_ref/c/ftmplt/setTimeout //apple_ref/c/defn/setTimeout //apple_ref/c/macro/setTimeout" --><span class="function">setTimeout</span><!-- /a -->:(<!-- a logicalPath="//apple_ref/c/cl/NSTimeInterval //apple_ref/c/tdef/NSTimeInterval //apple_ref/c/tag/NSTimeInterval //apple_ref/c/econst/NSTimeInterval //apple_ref/c/struct/NSTimeInterval //apple_ref/c/clconst/NSTimeInterval //apple_ref/c/intf/NSTimeInterval" --><span class="type">NSTimeInterval</span><!-- /a -->) <!-- a logicalPath="//apple_ref/c/econst/timeout //apple_ref/c/data/timeout" --><span class="var">timeout</span><!-- /a -->;  </pre>
+</div>
+<h5 class="tight">
+<font face="Lucida Grande,Helvetica,Arial">Discussion</font>
+</h5>
+<!-- begin discussion --><p>Sets the global network timeout for all server calls.
+<!-- end discussion -->
+</p>
+<p></p>
+<hr>
+<!-- headerDoc=instm;  uid=//apple_ref/c/instm/simulation;   name=simulation --><a name="//apple_ref/c/instm/simulation"></a>
+<table border="0" cellpadding="2" cellspacing="2" width="300"><tr><td valign="top" height="12" colspan="5">
+<h3><a name="simulation">simulation</a></h3>
+</td></tr></table>
+<hr>
+<p></p>
+<div class="declaration_indent">
+<pre>+ (<!-- a logicalPath="//apple_ref/c/cl/BOOL //apple_ref/c/tdef/BOOL //apple_ref/c/tag/BOOL //apple_ref/c/econst/BOOL //apple_ref/c/struct/BOOL //apple_ref/c/clconst/BOOL //apple_ref/c/intf/BOOL" --><span class="type">BOOL</span><!-- /a -->) <!-- a logicalPath="//apple_ref/c/econst/simulation //apple_ref/c/data/simulation" --><span class="var">simulation</span><!-- /a -->;  </pre>
+</div>
+<h5 class="tight">
+<font face="Lucida Grande,Helvetica,Arial">Discussion</font>
+</h5>
+<!-- begin discussion --><p>Gets whether any calls are made to the API or all network activity is simulated.
+<!-- end discussion -->
+</p>
+<p></p>
+<hr>
+<!-- headerDoc=instm;  uid=//apple_ref/c/instm/timeout;   name=timeout --><a name="//apple_ref/c/instm/timeout"></a>
+<table border="0" cellpadding="2" cellspacing="2" width="300"><tr><td valign="top" height="12" colspan="5">
+<h3><a name="timeout">timeout</a></h3>
+</td></tr></table>
+<hr>
+<p></p>
+<div class="declaration_indent">
+<pre>+ (<!-- a logicalPath="//apple_ref/c/cl/NSTimeInterval //apple_ref/c/tdef/NSTimeInterval //apple_ref/c/tag/NSTimeInterval //apple_ref/c/econst/NSTimeInterval //apple_ref/c/struct/NSTimeInterval //apple_ref/c/clconst/NSTimeInterval //apple_ref/c/intf/NSTimeInterval" --><span class="type">NSTimeInterval</span><!-- /a -->) <!-- a logicalPath="//apple_ref/c/econst/timeout //apple_ref/c/data/timeout" --><span class="var">timeout</span><!-- /a -->;  </pre>
+</div>
+<h5 class="tight">
+<font face="Lucida Grande,Helvetica,Arial">Discussion</font>
+</h5>
+<!-- begin discussion --><p>Gets the global network timeout for all server calls.
+<!-- end discussion -->
+</p>
+<p></p>
+<p>Last Updated: Wednesday, January 18, 2012
+</p>
+</div>
+</body>
+</html>

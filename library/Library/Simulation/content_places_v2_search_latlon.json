@@ -1,0 +1,442 @@
+{
+  "results" : {
+    "did_you_mean" : null,
+    "first_hit" : 1,
+    "histograms" : [],
+    "last_hit" : 10,
+    "locations" : [
+      {
+        "address" : {
+          "city" : "Los Angeles",
+          "postal_code" : "90014",
+          "state" : "CA",
+          "street" : "630 S Broadway"
+        },
+        "distance" : null,
+        "expansion" : {
+          "count" : null,
+          "uri" : null
+        },
+        "fax_number" : null,
+        "featured" : false,
+        "has_offers" : false,
+        "has_video" : false,
+        "id" : 36185142,
+        "image" : null,
+        "impression_id" : "000b000000c7c923620ea24074a066e10e7e7e406a",
+        "latitude" : 34.046,
+        "longitude" : -118.2523,
+        "name" : "Broadway Palace Theatre",
+        "neighborhood" : "Central LA, Downtown, Historic Core",
+        "offers" : null,
+        "phone_number" : "2134890646",
+        "profile" : "http://losangeles.citysearch.com/profile/36185142/los_angeles_ca/broadway_palace_theatre.html",
+        "public_id" : "broadway_palace_theatre-centralLA-21",
+        "rating" : null,
+        "sample_categories" : "Movie Theaters",
+        "tagline" : null,
+        "tags" : [
+          {
+            "id" : 157,
+            "name" : "Movie Theaters"
+          }
+        ],
+        "user_review_count" : 0,
+        "website" : null
+      },
+      {
+        "address" : {
+          "city" : "Los Angeles",
+          "postal_code" : "90015",
+          "state" : "CA",
+          "street" : "800 W Olympic Blvd"
+        },
+        "distance" : null,
+        "expansion" : {
+          "count" : null,
+          "uri" : null
+        },
+        "fax_number" : null,
+        "featured" : false,
+        "has_offers" : false,
+        "has_video" : false,
+        "id" : 47493084,
+        "image" : null,
+        "impression_id" : "000b000000f6dbc2bd7713455a8ac16bf35caf2ce7",
+        "latitude" : 34.0453,
+        "longitude" : -118.2655,
+        "name" : "La Live",
+        "neighborhood" : null,
+        "offers" : null,
+        "phone_number" : "2137635483",
+        "profile" : "http://losangeles.citysearch.com/profile/47493084/los_angeles_ca/la_live.html",
+        "public_id" : "la_live-los_angeles-22",
+        "rating" : 7,
+        "sample_categories" : "Musical Entertainers, Movie Theaters, Bowling Alleys, Museums, Restaurants",
+        "tagline" : null,
+        "tags" : [
+          {
+            "id" : 115,
+            "name" : "Musical Entertainers"
+          },
+          {
+            "id" : 157,
+            "name" : "Movie Theaters"
+          },
+          {
+            "id" : 4068,
+            "name" : "Bowling Alleys"
+          },
+          {
+            "id" : 96,
+            "name" : "Museums"
+          },
+          {
+            "id" : 1722,
+            "name" : "Restaurants"
+          }
+        ],
+        "user_review_count" : 3,
+        "website" : null
+      },
+      {
+        "address" : {
+          "city" : "Los Angeles",
+          "postal_code" : "90012",
+          "state" : "CA",
+          "street" : "251 S Main St"
+        },
+        "distance" : null,
+        "expansion" : {
+          "count" : null,
+          "uri" : null
+        },
+        "fax_number" : null,
+        "featured" : false,
+        "has_offers" : false,
+        "has_video" : false,
+        "id" : 602365335,
+        "image" : null,
+        "impression_id" : "000b0000005353a8d58ba34789a6f69269c59d73f2",
+        "latitude" : 34.050289,
+        "longitude" : -118.245216,
+        "name" : "Downtown Independent",
+        "neighborhood" : "Central LA, Downtown, Historic Core",
+        "offers" : null,
+        "phone_number" : "2136171033",
+        "profile" : "http://losangeles.citysearch.com/profile/602365335/los_angeles_ca/downtown_independent.html",
+        "public_id" : "downtown_independent-centralLa-23",
+        "rating" : null,
+        "sample_categories" : "Movie Theaters",
+        "tagline" : null,
+        "tags" : [
+          {
+            "id" : 157,
+            "name" : "Movie Theaters"
+          }
+        ],
+        "user_review_count" : 0,
+        "website" : null
+      },
+      {
+        "address" : {
+          "city" : "Los Angeles",
+          "postal_code" : "90015",
+          "state" : "CA",
+          "street" : "1000 W Olympic Blvd"
+        },
+        "distance" : null,
+        "expansion" : {
+          "count" : null,
+          "uri" : null
+        },
+        "fax_number" : null,
+        "featured" : false,
+        "has_offers" : false,
+        "has_video" : false,
+        "id" : 603347662,
+        "image" : null,
+        "impression_id" : "000b00000006fb1639dc3e403aa7a4671654dd51e7",
+        "latitude" : 34.045913,
+        "longitude" : -118.266888,
+        "name" : "Regal Cinemas L.A. Live Stadium 14",
+        "neighborhood" : "Central LA, South Park, Downtown",
+        "offers" : null,
+        "phone_number" : "2137636071",
+        "profile" : "http://losangeles.citysearch.com/profile/603347662/los_angeles_ca/regal_cinemas_l_a_live_stadium_14.html",
+        "public_id" : "regal_cinemas_la_live_stadium_14-centralLa-24",
+        "rating" : null,
+        "sample_categories" : "Movie Theaters",
+        "tagline" : null,
+        "tags" : [
+          {
+            "id" : 157,
+            "name" : "Movie Theaters"
+          }
+        ],
+        "user_review_count" : 0,
+        "website" : null
+      },
+      {
+        "address" : {
+          "city" : "Los Angeles",
+          "postal_code" : "90013",
+          "state" : "CA",
+          "street" : "240 W 4th St"
+        },
+        "distance" : null,
+        "expansion" : {
+          "count" : null,
+          "uri" : null
+        },
+        "fax_number" : null,
+        "featured" : false,
+        "has_offers" : false,
+        "has_video" : false,
+        "id" : 603758272,
+        "image" : null,
+        "impression_id" : "000b0000003ebb77f23ac84e32b82595b2a6c22c08",
+        "latitude" : 34.049259,
+        "longitude" : -118.248968,
+        "name" : "Devil's Night Drive-In",
+        "neighborhood" : "Central LA, Downtown, Historic Core",
+        "offers" : null,
+        "phone_number" : "3105551212",
+        "profile" : "http://losangeles.citysearch.com/profile/603758272/los_angeles_ca/devil_s_night_drive_in.html",
+        "public_id" : "devil_night_drive_in-centralLa-25",
+        "rating" : null,
+        "sample_categories" : "Movie Theaters, Drive-In Theaters",
+        "tagline" : null,
+        "tags" : [
+          {
+            "id" : 157,
+            "name" : "Movie Theaters"
+          },
+          {
+            "id" : 160,
+            "name" : "Drive-In Theaters"
+          }
+        ],
+        "user_review_count" : 0,
+        "website" : null
+      },
+      {
+        "address" : {
+          "city" : "Los Angeles",
+          "postal_code" : "90013",
+          "state" : "CA",
+          "street" : "518 S Broadway"
+        },
+        "distance" : null,
+        "expansion" : {
+          "count" : null,
+          "uri" : null
+        },
+        "fax_number" : null,
+        "featured" : false,
+        "has_offers" : false,
+        "has_video" : false,
+        "id" : 602365861,
+        "image" : null,
+        "impression_id" : "000b0000007d5d4e83e8ca467eafec5b3b859df556",
+        "latitude" : 34.047798,
+        "longitude" : -118.250931,
+        "name" : "Roxie Theatre",
+        "neighborhood" : "Central LA, Downtown, Historic Core",
+        "offers" : null,
+        "phone_number" : "2132390951",
+        "profile" : "http://losangeles.citysearch.com/profile/602365861/los_angeles_ca/roxie_theatre.html",
+        "public_id" : "roxie_theatre-centralLa-26",
+        "rating" : null,
+        "sample_categories" : "Movie Theaters",
+        "tagline" : null,
+        "tags" : [
+          {
+            "id" : 157,
+            "name" : "Movie Theaters"
+          }
+        ],
+        "user_review_count" : 0,
+        "website" : null
+      },
+      {
+        "address" : {
+          "city" : "Los Angeles",
+          "postal_code" : "90071",
+          "state" : "CA",
+          "street" : "345 S Figueroa St"
+        },
+        "distance" : null,
+        "expansion" : {
+          "count" : null,
+          "uri" : null
+        },
+        "fax_number" : null,
+        "featured" : false,
+        "has_offers" : false,
+        "has_video" : false,
+        "id" : 11278208,
+        "image" : null,
+        "impression_id" : "000b0000005f9e34ef8a9f43f6a3844f6261f2707a",
+        "latitude" : 34.0545,
+        "longitude" : -118.2552,
+        "name" : "Laemmle's Grande 4-Plex",
+        "neighborhood" : "Central LA, Downtown, New Downtown",
+        "offers" : null,
+        "phone_number" : "2136170268",
+        "profile" : "http://losangeles.citysearch.com/profile/11278208/los_angeles_ca/laemmle_s_grande_4_plex.html",
+        "public_id" : "laemmle_grande_4_plex-centralLa-27",
+        "rating" : 9,
+        "sample_categories" : "Movie Theaters",
+        "tagline" : null,
+        "tags" : [
+          {
+            "id" : 157,
+            "name" : "Movie Theaters"
+          }
+        ],
+        "user_review_count" : 3,
+        "website" : null
+      },
+      {
+        "address" : {
+          "city" : "Los Angeles",
+          "postal_code" : "90013",
+          "state" : "CA",
+          "street" : "307 S Broadway"
+        },
+        "distance" : null,
+        "expansion" : {
+          "count" : null,
+          "uri" : null
+        },
+        "fax_number" : null,
+        "featured" : false,
+        "has_offers" : false,
+        "has_video" : false,
+        "id" : 602365685,
+        "image" : null,
+        "impression_id" : "000b0000005b2760bfa71d4ea6b4664d4578308474",
+        "latitude" : 34.050739,
+        "longitude" : -118.248222,
+        "name" : "Million Dollar Theater",
+        "neighborhood" : "Central LA, Downtown, Historic Core",
+        "offers" : null,
+        "phone_number" : "2136173600",
+        "profile" : "http://losangeles.citysearch.com/profile/602365685/los_angeles_ca/million_dollar_theater.html",
+        "public_id" : "million_dollar_theater-centralLa-28",
+        "rating" : null,
+        "sample_categories" : "Movie Theaters",
+        "tagline" : null,
+        "tags" : [
+          {
+            "id" : 157,
+            "name" : "Movie Theaters"
+          }
+        ],
+        "user_review_count" : 0,
+        "website" : null
+      },
+      {
+        "address" : {
+          "city" : "Commerce",
+          "postal_code" : "90040",
+          "state" : "CA",
+          "street" : "500 Citadel Dr Ste 300"
+        },
+        "distance" : null,
+        "expansion" : {
+          "count" : null,
+          "uri" : null
+        },
+        "fax_number" : null,
+        "featured" : false,
+        "has_offers" : false,
+        "has_video" : false,
+        "id" : 8946191,
+        "image" : null,
+        "impression_id" : "000b0000005124d9d484ed47feb6087c534ce6a163",
+        "latitude" : 34.0497,
+        "longitude" : -118.2559,
+        "name" : "Reading International Inc",
+        "neighborhood" : "Central LA, Downtown, New Downtown",
+        "offers" : null,
+        "phone_number" : "2132352240",
+        "profile" : "http://losangeles.citysearch.com/profile/8946191/commerce_ca/reading_international_inc.html",
+        "public_id" : "reading_international-centralLa-29",
+        "rating" : null,
+        "sample_categories" : "Movie Theaters, Business Management Consultants, Marketing Consultants, Real Estate Developers, Metal Door Manufacturers",
+        "tagline" : null,
+        "tags" : [
+          {
+            "id" : 157,
+            "name" : "Movie Theaters"
+          },
+          {
+            "id" : 364,
+            "name" : "Business Management Consultants"
+          },
+          {
+            "id" : 432,
+            "name" : "Marketing Consultants"
+          },
+          {
+            "id" : 3772,
+            "name" : "Real Estate Developers"
+          },
+          {
+            "id" : 2904,
+            "name" : "Metal Door Manufacturers"
+          }
+        ],
+        "user_review_count" : 0,
+        "website" : null
+      },
+      {
+        "address" : {
+          "city" : "Los Angeles",
+          "postal_code" : "90015",
+          "state" : "CA",
+          "street" : "1000 W Olympic Blvd"
+        },
+        "distance" : null,
+        "expansion" : {
+          "count" : null,
+          "uri" : null
+        },
+        "fax_number" : null,
+        "featured" : false,
+        "has_offers" : false,
+        "has_video" : false,
+        "id" : 637677350,
+        "image" : null,
+        "impression_id" : "000b0000000bb6965ae9bd4e2395e754dc44bef305",
+        "latitude" : 34.04594,
+        "longitude" : -118.266922,
+        "name" : "Regal La Live Stadium 14",
+        "neighborhood" : "Central LA, Downtown, South Park",
+        "offers" : null,
+        "phone_number" : "2137636071",
+        "profile" : "http://losangeles.citysearch.com/profile/637677350/los_angeles_ca/regal_la_live_stadium_14.html",
+        "public_id" : "regal_cinemas_la_live_stadium_14-centralLa-24",
+        "rating" : null,
+        "sample_categories" : "Movie Theaters",
+        "tagline" : null,
+        "tags" : [
+          {
+            "id" : 157,
+            "name" : "Movie Theaters"
+          }
+        ],
+        "user_review_count" : 0,
+        "website" : null
+      }
+    ],
+    "page" : 1,
+    "query_id" : null,
+    "regions" : [],
+    "rpp" : 20,
+    "total_hits" : 10,
+    "uri" : "http://api.citygridmedia.com/search/places/v2/search/latlon?radius=5.0&has_offers=false&type=movietheater&format=json&page=1&rpp=20&histograms=false&lat=34.030000&lon=-118.280000&lat2=34.080000&lon2=-118.230000&region_type=box&publisher=test"
+  }
+}

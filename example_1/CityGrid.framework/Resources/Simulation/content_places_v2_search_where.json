@@ -1,0 +1,2164 @@
+{
+  "results" : {
+    "did_you_mean" : null,
+    "first_hit" : 1,
+    "histograms" : [],
+    "last_hit" : 20,
+    "locations" : [
+      {
+        "address" : {
+          "city" : "Chicago",
+          "postal_code" : "60622",
+          "state" : "IL",
+          "street" : "1374 W Grand Ave"
+        },
+        "distance" : null,
+        "expansion" : {
+          "count" : null,
+          "uri" : null
+        },
+        "fax_number" : null,
+        "featured" : true,
+        "has_offers" : false,
+        "has_video" : false,
+        "id" : 3692876,
+        "image" : "http://images.citysearch.net/assets/imgdb/advertorial_profile/0b/36/V-CHIIL-55040437_ID43040_guide_inclusion_100x100.jpg",
+        "impression_id" : "000b00000070a61eb2bb71487b83c2aa4c72c8de67",
+        "latitude" : 41.8911,
+        "longitude" : -87.6616,
+        "name" : "Bella Notte",
+        "neighborhood" : "Goose Island, West Side",
+        "offers" : null,
+        "phone_number" : "3124296908",
+        "profile" : "http://chicago.citysearch.com/profile/3692876/chicago_il/bella_notte.html",
+        "public_id" : "bella_notte-chicago-2",
+        "rating" : 8,
+        "sample_categories" : "Finance & Financial Services, Recreation Facilities, Banquet Rooms, Reception Centers, Party Planners",
+        "tagline" : "Cozy and noisy, this neighborhood Italian spot serves large portions at a good value.",
+        "tags" : [
+          {
+            "id" : 1610,
+            "name" : "Finance & Financial Services"
+          },
+          {
+            "id" : 4066,
+            "name" : "Recreation Facilities"
+          },
+          {
+            "id" : 3495,
+            "name" : "Banquet Rooms"
+          },
+          {
+            "id" : 3496,
+            "name" : "Reception Centers"
+          },
+          {
+            "id" : 3498,
+            "name" : "Party Planners"
+          },
+          {
+            "id" : 1722,
+            "name" : "Restaurants"
+          },
+          {
+            "id" : 555,
+            "name" : "Waste Management"
+          },
+          {
+            "id" : 1705,
+            "name" : "Catering"
+          },
+          {
+            "id" : 11263,
+            "name" : "Family-Friendly Dining"
+          },
+          {
+            "id" : 11265,
+            "name" : "Fine Dining"
+          },
+          {
+            "id" : 11241,
+            "name" : "Buffet"
+          },
+          {
+            "id" : 12645,
+            "name" : "Romantic"
+          },
+          {
+            "id" : 11286,
+            "name" : "Lunch Spot"
+          },
+          {
+            "id" : 12839,
+            "name" : "Chicken"
+          },
+          {
+            "id" : 11315,
+            "name" : "Special Occasion Dining"
+          },
+          {
+            "id" : 11317,
+            "name" : "Tapas / Small Plates"
+          },
+          {
+            "id" : 11333,
+            "name" : "American Express"
+          },
+          {
+            "id" : 10038,
+            "name" : "Private Parties"
+          },
+          {
+            "id" : 11367,
+            "name" : "Open 7 Days"
+          },
+          {
+            "id" : 12641,
+            "name" : "Meeting Facilities"
+          },
+          {
+            "id" : 11238,
+            "name" : "Bar Scene"
+          },
+          {
+            "id" : 11228,
+            "name" : "Seafood"
+          },
+          {
+            "id" : 11339,
+            "name" : "Cash"
+          },
+          {
+            "id" : 11232,
+            "name" : "$$"
+          },
+          {
+            "id" : 11294,
+            "name" : "Notable Wine List"
+          },
+          {
+            "id" : 11382,
+            "name" : "Visa"
+          },
+          {
+            "id" : 11256,
+            "name" : "Date Spot"
+          },
+          {
+            "id" : 11926,
+            "name" : "Corporate Events"
+          },
+          {
+            "id" : 11304,
+            "name" : "Private Rooms"
+          },
+          {
+            "id" : 11279,
+            "name" : "Italian"
+          },
+          {
+            "id" : 11372,
+            "name" : "References Available"
+          },
+          {
+            "id" : 11307,
+            "name" : "Romantic Dining"
+          },
+          {
+            "id" : 11359,
+            "name" : "Licensed"
+          },
+          {
+            "id" : 11316,
+            "name" : "Steakhouse"
+          },
+          {
+            "id" : 11335,
+            "name" : "Bonded"
+          },
+          {
+            "id" : 11349,
+            "name" : "Discover"
+          },
+          {
+            "id" : 11348,
+            "name" : "Diners Club"
+          },
+          {
+            "id" : 11361,
+            "name" : "MasterCard"
+          }
+        ],
+        "user_review_count" : 11,
+        "website" : null
+      },
+      {
+        "address" : {
+          "city" : "Chicago",
+          "postal_code" : "60610",
+          "state" : "IL",
+          "street" : "439 N Wells St"
+        },
+        "distance" : null,
+        "expansion" : {
+          "count" : null,
+          "uri" : null
+        },
+        "fax_number" : null,
+        "featured" : false,
+        "has_offers" : false,
+        "has_video" : false,
+        "id" : 3663784,
+        "image" : "http://images.citysearch.net/assets/imgdb/guide/2010/8/24/0/FDGMDArl78_100x100.jpeg",
+        "impression_id" : "000b00000090e8617b93694f8797cb567a0c91847d",
+        "latitude" : 41.8902,
+        "longitude" : -87.6338,
+        "name" : "Lou Malnati's Pizzeria",
+        "neighborhood" : "Central, Near North Side",
+        "offers" : null,
+        "phone_number" : "3128289800",
+        "profile" : "http://chicago.citysearch.com/profile/3663784/chicago_il/lou_malnati_s_pizzeria.html",
+        "public_id" : "lou_malnati_pizzeria-chicago-3",
+        "rating" : 8,
+        "sample_categories" : "Food & Dining, Restaurants, Family-Friendly Dining, Carry Out, Local Favorite",
+        "tagline" : null,
+        "tags" : [
+          {
+            "id" : 1684,
+            "name" : "Food & Dining"
+          },
+          {
+            "id" : 1722,
+            "name" : "Restaurants"
+          },
+          {
+            "id" : 11263,
+            "name" : "Family-Friendly Dining"
+          },
+          {
+            "id" : 11247,
+            "name" : "Carry Out"
+          },
+          {
+            "id" : 11284,
+            "name" : "Local Favorite"
+          },
+          {
+            "id" : 11258,
+            "name" : "Dine At The Bar"
+          },
+          {
+            "id" : 11267,
+            "name" : "Food Delivery"
+          },
+          {
+            "id" : 11382,
+            "name" : "Visa"
+          },
+          {
+            "id" : 11231,
+            "name" : "$"
+          },
+          {
+            "id" : 11269,
+            "name" : "Group Dining"
+          },
+          {
+            "id" : 11299,
+            "name" : "Pizza"
+          },
+          {
+            "id" : 11296,
+            "name" : "Outdoor Dining"
+          },
+          {
+            "id" : 11304,
+            "name" : "Private Rooms"
+          },
+          {
+            "id" : 11286,
+            "name" : "Lunch Spot"
+          },
+          {
+            "id" : 11279,
+            "name" : "Italian"
+          },
+          {
+            "id" : 12821,
+            "name" : "Casual Date Spot"
+          },
+          {
+            "id" : 11262,
+            "name" : "Family Style Dining"
+          },
+          {
+            "id" : 11333,
+            "name" : "American Express"
+          },
+          {
+            "id" : 11367,
+            "name" : "Open 7 Days"
+          },
+          {
+            "id" : 11349,
+            "name" : "Discover"
+          },
+          {
+            "id" : 11348,
+            "name" : "Diners Club"
+          },
+          {
+            "id" : 11338,
+            "name" : "Carte Blanche"
+          },
+          {
+            "id" : 11361,
+            "name" : "MasterCard"
+          }
+        ],
+        "user_review_count" : 291,
+        "website" : null
+      },
+      {
+        "address" : {
+          "city" : "Chicago",
+          "postal_code" : "60611",
+          "state" : "IL",
+          "street" : "730 N Rush St"
+        },
+        "distance" : null,
+        "expansion" : {
+          "count" : null,
+          "uri" : null
+        },
+        "fax_number" : null,
+        "featured" : false,
+        "has_offers" : false,
+        "has_video" : false,
+        "id" : 3667081,
+        "image" : "http://images.citysearch.net/assets/imgdb/profile/0d/73/3667081p1_100x100.jpg",
+        "impression_id" : "000b000000671221192e91437aa10cfe97c39046d5",
+        "latitude" : 41.8958,
+        "longitude" : -87.6256,
+        "name" : "Giordano's",
+        "neighborhood" : "Central, Near North Side",
+        "offers" : null,
+        "phone_number" : "3129510747",
+        "profile" : "http://chicago.citysearch.com/profile/3667081/chicago_il/giordano_s.html",
+        "public_id" : "giordano-chicago-4",
+        "rating" : 9,
+        "sample_categories" : "Food & Dining, Restaurants, Family-Friendly Dining, Carry Out, Local Favorite",
+        "tagline" : null,
+        "tags" : [
+          {
+            "id" : 1684,
+            "name" : "Food & Dining"
+          },
+          {
+            "id" : 1722,
+            "name" : "Restaurants"
+          },
+          {
+            "id" : 11263,
+            "name" : "Family-Friendly Dining"
+          },
+          {
+            "id" : 11247,
+            "name" : "Carry Out"
+          },
+          {
+            "id" : 11284,
+            "name" : "Local Favorite"
+          },
+          {
+            "id" : 11267,
+            "name" : "Food Delivery"
+          },
+          {
+            "id" : 11231,
+            "name" : "$"
+          },
+          {
+            "id" : 11382,
+            "name" : "Visa"
+          },
+          {
+            "id" : 11269,
+            "name" : "Group Dining"
+          },
+          {
+            "id" : 11299,
+            "name" : "Pizza"
+          },
+          {
+            "id" : 11286,
+            "name" : "Lunch Spot"
+          },
+          {
+            "id" : 11279,
+            "name" : "Italian"
+          },
+          {
+            "id" : 12821,
+            "name" : "Casual Date Spot"
+          },
+          {
+            "id" : 11262,
+            "name" : "Family Style Dining"
+          },
+          {
+            "id" : 11333,
+            "name" : "American Express"
+          },
+          {
+            "id" : 11367,
+            "name" : "Open 7 Days"
+          },
+          {
+            "id" : 11349,
+            "name" : "Discover"
+          },
+          {
+            "id" : 11348,
+            "name" : "Diners Club"
+          },
+          {
+            "id" : 11361,
+            "name" : "MasterCard"
+          }
+        ],
+        "user_review_count" : 156,
+        "website" : null
+      },
+      {
+        "address" : {
+          "city" : "Chicago",
+          "postal_code" : "60616",
+          "state" : "IL",
+          "street" : "2373 S Archer Ave"
+        },
+        "distance" : null,
+        "expansion" : {
+          "count" : null,
+          "uri" : null
+        },
+        "fax_number" : null,
+        "featured" : true,
+        "has_offers" : false,
+        "has_video" : false,
+        "id" : 660864240,
+        "image" : null,
+        "impression_id" : "000b000000b7aeddfbe8e64266b8a00891a282a25a",
+        "latitude" : 41.849164,
+        "longitude" : -87.641739,
+        "name" : "Connie's Pizza - Chicago",
+        "neighborhood" : "South Side, Armour Square, Armour Square (Chinatown)",
+        "offers" : null,
+        "phone_number" : "3123263443",
+        "profile" : "http://chicago.citysearch.com/profile/660864240/chicago_il/connie_s_pizza_chicago.html",
+        "public_id" : "connie_pizza-chicago-5",
+        "rating" : null,
+        "sample_categories" : "Food & Dining, Restaurants, Catering, Family-Friendly Dining, Pizza",
+        "tagline" : null,
+        "tags" : [
+          {
+            "id" : 1684,
+            "name" : "Food & Dining"
+          },
+          {
+            "id" : 1722,
+            "name" : "Restaurants"
+          },
+          {
+            "id" : 1705,
+            "name" : "Catering"
+          },
+          {
+            "id" : 11263,
+            "name" : "Family-Friendly Dining"
+          },
+          {
+            "id" : 11299,
+            "name" : "Pizza"
+          },
+          {
+            "id" : 11279,
+            "name" : "Italian"
+          },
+          {
+            "id" : 12821,
+            "name" : "Casual Date Spot"
+          }
+        ],
+        "user_review_count" : 12,
+        "website" : "http://chicago.citysearch.com/profile/external/660864240/chicago_il/connie_s_pizza_chicago.html"
+      },
+      {
+        "address" : {
+          "city" : "Chicago",
+          "postal_code" : "60610",
+          "state" : "IL",
+          "street" : "633 N Wells St"
+        },
+        "distance" : null,
+        "expansion" : {
+          "count" : null,
+          "uri" : null
+        },
+        "fax_number" : null,
+        "featured" : false,
+        "has_offers" : false,
+        "has_video" : false,
+        "id" : 3663723,
+        "image" : "http://images.citysearch.net/assets/imgdb/guide/2010/8/24/0/yliVSAIt230_100x100.jpeg",
+        "impression_id" : "000b0000002c38fe31306540409c30225ec3176f22",
+        "latitude" : 41.8935,
+        "longitude" : -87.6339,
+        "name" : "Gino's East Of Chicago",
+        "neighborhood" : "Central, Near North Side",
+        "offers" : null,
+        "phone_number" : "3129431124",
+        "profile" : "http://chicago.citysearch.com/profile/3663723/chicago_il/gino_s_east_of_chicago.html",
+        "public_id" : "gino_east_chicago-chicago-6",
+        "rating" : 8,
+        "sample_categories" : "Food & Dining, Chicken Wings, Restaurants, Family-Friendly Dining, Bar Menu",
+        "tagline" : null,
+        "tags" : [
+          {
+            "id" : 1684,
+            "name" : "Food & Dining"
+          },
+          {
+            "id" : 13700,
+            "name" : "Chicken Wings"
+          },
+          {
+            "id" : 1722,
+            "name" : "Restaurants"
+          },
+          {
+            "id" : 11263,
+            "name" : "Family-Friendly Dining"
+          },
+          {
+            "id" : 11237,
+            "name" : "Bar Menu"
+          },
+          {
+            "id" : 11247,
+            "name" : "Carry Out"
+          },
+          {
+            "id" : 11284,
+            "name" : "Local Favorite"
+          },
+          {
+            "id" : 11232,
+            "name" : "$$"
+          },
+          {
+            "id" : 11382,
+            "name" : "Visa"
+          },
+          {
+            "id" : 11269,
+            "name" : "Group Dining"
+          },
+          {
+            "id" : 11299,
+            "name" : "Pizza"
+          },
+          {
+            "id" : 11286,
+            "name" : "Lunch Spot"
+          },
+          {
+            "id" : 11279,
+            "name" : "Italian"
+          },
+          {
+            "id" : 12821,
+            "name" : "Casual Date Spot"
+          },
+          {
+            "id" : 11262,
+            "name" : "Family Style Dining"
+          },
+          {
+            "id" : 11333,
+            "name" : "American Express"
+          },
+          {
+            "id" : 11367,
+            "name" : "Open 7 Days"
+          },
+          {
+            "id" : 11349,
+            "name" : "Discover"
+          },
+          {
+            "id" : 11348,
+            "name" : "Diners Club"
+          },
+          {
+            "id" : 11303,
+            "name" : "Private Parties"
+          },
+          {
+            "id" : 11361,
+            "name" : "MasterCard"
+          }
+        ],
+        "user_review_count" : 153,
+        "website" : null
+      },
+      {
+        "address" : {
+          "city" : "Chicago",
+          "postal_code" : "60603",
+          "state" : "IL",
+          "street" : "71 W Monroe St"
+        },
+        "distance" : null,
+        "expansion" : {
+          "count" : null,
+          "uri" : null
+        },
+        "fax_number" : null,
+        "featured" : false,
+        "has_offers" : false,
+        "has_video" : true,
+        "id" : 3642619,
+        "image" : "http://images.citysearch.net/assets/imgdb/advertorial_profile/41/66/V-CHIIL-55049157_ID114522_guide_inclusion_100x100.jpg",
+        "impression_id" : "000b000000b4b071c1ff7d4daea4447fcec1faab9a",
+        "latitude" : 41.8806,
+        "longitude" : -87.63,
+        "name" : "Italian Village",
+        "neighborhood" : "Central, Loop",
+        "offers" : null,
+        "phone_number" : "3129575808",
+        "profile" : "http://chicago.citysearch.com/profile/3642619/chicago_il/italian_village.html",
+        "public_id" : "italian_village-chicago-7",
+        "rating" : 9,
+        "sample_categories" : "Food & Dining, Banquet Rooms, Lounges, Restaurants, Catering",
+        "tagline" : "Low-lit and intimate, this Old-World Italian eatery mimics a quaint village.",
+        "tags" : [
+          {
+            "id" : 1684,
+            "name" : "Food & Dining"
+          },
+          {
+            "id" : 3495,
+            "name" : "Banquet Rooms"
+          },
+          {
+            "id" : 1697,
+            "name" : "Lounges"
+          },
+          {
+            "id" : 1722,
+            "name" : "Restaurants"
+          },
+          {
+            "id" : 1705,
+            "name" : "Catering"
+          },
+          {
+            "id" : 3722,
+            "name" : "Stenography"
+          },
+          {
+            "id" : 11282,
+            "name" : "Late Night Dining"
+          },
+          {
+            "id" : 11263,
+            "name" : "Family-Friendly Dining"
+          },
+          {
+            "id" : 11284,
+            "name" : "Local Favorite"
+          },
+          {
+            "id" : 11247,
+            "name" : "Carry Out"
+          },
+          {
+            "id" : 11267,
+            "name" : "Food Delivery"
+          },
+          {
+            "id" : 11269,
+            "name" : "Group Dining"
+          },
+          {
+            "id" : 11244,
+            "name" : "Business Dining"
+          },
+          {
+            "id" : 11286,
+            "name" : "Lunch Spot"
+          },
+          {
+            "id" : 11315,
+            "name" : "Special Occasion Dining"
+          },
+          {
+            "id" : 12821,
+            "name" : "Casual Date Spot"
+          },
+          {
+            "id" : 11333,
+            "name" : "American Express"
+          },
+          {
+            "id" : 11303,
+            "name" : "Private Parties"
+          },
+          {
+            "id" : 11232,
+            "name" : "$$"
+          },
+          {
+            "id" : 11295,
+            "name" : "Online Reservations"
+          },
+          {
+            "id" : 11382,
+            "name" : "Visa"
+          },
+          {
+            "id" : 11294,
+            "name" : "Notable Wine List"
+          },
+          {
+            "id" : 11256,
+            "name" : "Date Spot"
+          },
+          {
+            "id" : 11296,
+            "name" : "Outdoor Dining"
+          },
+          {
+            "id" : 11299,
+            "name" : "Pizza"
+          },
+          {
+            "id" : 11304,
+            "name" : "Private Rooms"
+          },
+          {
+            "id" : 11279,
+            "name" : "Italian"
+          },
+          {
+            "id" : 11307,
+            "name" : "Romantic Dining"
+          },
+          {
+            "id" : 11349,
+            "name" : "Discover"
+          },
+          {
+            "id" : 11348,
+            "name" : "Diners Club"
+          },
+          {
+            "id" : 11361,
+            "name" : "MasterCard"
+          }
+        ],
+        "user_review_count" : 96,
+        "website" : "http://chicago.citysearch.com/profile/external/3642619/chicago_il/italian_village.html"
+      },
+      {
+        "address" : {
+          "city" : "Chicago",
+          "postal_code" : "60611",
+          "state" : "IL",
+          "street" : "29 E Ohio St"
+        },
+        "distance" : null,
+        "expansion" : {
+          "count" : null,
+          "uri" : null
+        },
+        "fax_number" : null,
+        "featured" : true,
+        "has_offers" : false,
+        "has_video" : false,
+        "id" : 605716310,
+        "image" : "http://images.citysearch.net/assets/imgdb/guide/2010/12/1/0/kqtyaHcc172_100x100.jpeg",
+        "impression_id" : "000b000000a396a121d5004b7c97e42b712dc2eb62",
+        "latitude" : 41.892486,
+        "longitude" : -87.626963,
+        "name" : "Pizzeria Uno",
+        "neighborhood" : "Central, Near North Side",
+        "offers" : null,
+        "phone_number" : "3124620380",
+        "profile" : "http://chicago.citysearch.com/profile/605716310/chicago_il/pizzeria_uno.html",
+        "public_id" : "pizzeria_uno-chicago-8",
+        "rating" : 8,
+        "sample_categories" : "Family-Friendly Dining, Late Night Dining, Local Favorite, $$, Food Delivery",
+        "tagline" : "Chicago-Style Deep Dish Pizza",
+        "tags" : [
+          {
+            "id" : 11263,
+            "name" : "Family-Friendly Dining"
+          },
+          {
+            "id" : 11282,
+            "name" : "Late Night Dining"
+          },
+          {
+            "id" : 11284,
+            "name" : "Local Favorite"
+          },
+          {
+            "id" : 11232,
+            "name" : "$$"
+          },
+          {
+            "id" : 11267,
+            "name" : "Food Delivery"
+          },
+          {
+            "id" : 11382,
+            "name" : "Visa"
+          },
+          {
+            "id" : 11269,
+            "name" : "Group Dining"
+          },
+          {
+            "id" : 11292,
+            "name" : "Notable Beer List"
+          },
+          {
+            "id" : 11299,
+            "name" : "Pizza"
+          },
+          {
+            "id" : 11296,
+            "name" : "Outdoor Dining"
+          },
+          {
+            "id" : 11279,
+            "name" : "Italian"
+          },
+          {
+            "id" : 11262,
+            "name" : "Family Style Dining"
+          },
+          {
+            "id" : 11333,
+            "name" : "American Express"
+          },
+          {
+            "id" : 11367,
+            "name" : "Open 7 Days"
+          },
+          {
+            "id" : 11349,
+            "name" : "Discover"
+          },
+          {
+            "id" : 11348,
+            "name" : "Diners Club"
+          },
+          {
+            "id" : 11361,
+            "name" : "MasterCard"
+          }
+        ],
+        "user_review_count" : 98,
+        "website" : "http://chicago.citysearch.com/profile/external/605716310/chicago_il/pizzeria_uno.html"
+      },
+      {
+        "address" : {
+          "city" : "Chicago",
+          "postal_code" : "60634",
+          "state" : "IL",
+          "street" : "3718 N Central Ave"
+        },
+        "distance" : null,
+        "expansion" : {
+          "count" : null,
+          "uri" : null
+        },
+        "fax_number" : null,
+        "featured" : true,
+        "has_offers" : false,
+        "has_video" : false,
+        "id" : 666897870,
+        "image" : "http://images.dexknows.com/logo/183804.jpg",
+        "impression_id" : "000b0000001bb53c839bd34b6ea499ce48ffd102eb",
+        "latitude" : 41.948275,
+        "longitude" : -87.766842,
+        "name" : "Porretta's Banquets & Catering",
+        "neighborhood" : "Northwest Side, Portage Park",
+        "offers" : null,
+        "phone_number" : "7739326554",
+        "profile" : "http://chicago.citysearch.com/profile/666897870/chicago_il/porretta_s_banquets_catering.html",
+        "public_id" : "porretta_banquets_catering-chicago-9",
+        "rating" : null,
+        "sample_categories" : "Wedding Sites, Unclassified, Banquet Rooms, Wedding Events, Reception Centers",
+        "tagline" : "Chicago's finest custom catering for all occasions!",
+        "tags" : [
+          {
+            "id" : 6215,
+            "name" : "Wedding Sites"
+          },
+          {
+            "id" : 6019,
+            "name" : "Unclassified"
+          },
+          {
+            "id" : 3495,
+            "name" : "Banquet Rooms"
+          },
+          {
+            "id" : 16050,
+            "name" : "Wedding Events"
+          },
+          {
+            "id" : 3496,
+            "name" : "Reception Centers"
+          },
+          {
+            "id" : 1025,
+            "name" : "Arbor Day Events"
+          },
+          {
+            "id" : 3551,
+            "name" : "Rental Services"
+          },
+          {
+            "id" : 1026,
+            "name" : "Hanukkah Events"
+          },
+          {
+            "id" : 3499,
+            "name" : "Wedding Planners"
+          },
+          {
+            "id" : 1722,
+            "name" : "Restaurants"
+          },
+          {
+            "id" : 1029,
+            "name" : "Christmas Dinners"
+          },
+          {
+            "id" : 1705,
+            "name" : "Catering"
+          },
+          {
+            "id" : 11123,
+            "name" : "Wedding Banquets"
+          },
+          {
+            "id" : 11316,
+            "name" : "Steakhouse"
+          },
+          {
+            "id" : 11241,
+            "name" : "Buffet"
+          },
+          {
+            "id" : 11294,
+            "name" : "Notable Wine List"
+          },
+          {
+            "id" : 12736,
+            "name" : "Wedding Supplies"
+          },
+          {
+            "id" : 11926,
+            "name" : "Corporate Events"
+          },
+          {
+            "id" : 11057,
+            "name" : "Wedding Cakes"
+          },
+          {
+            "id" : 11279,
+            "name" : "Italian"
+          },
+          {
+            "id" : 11303,
+            "name" : "Private Parties"
+          },
+          {
+            "id" : 11228,
+            "name" : "Seafood"
+          },
+          {
+            "id" : 12839,
+            "name" : "Chicken"
+          }
+        ],
+        "user_review_count" : 2,
+        "website" : "http://chicago.citysearch.com/profile/external/666897870/chicago_il/porretta_s_banquets_catering.html"
+      },
+      {
+        "address" : {
+          "city" : "Chicago",
+          "postal_code" : "60623",
+          "state" : "IL",
+          "street" : "4254 W 31st St"
+        },
+        "distance" : null,
+        "expansion" : {
+          "count" : null,
+          "uri" : null
+        },
+        "fax_number" : null,
+        "featured" : false,
+        "has_offers" : false,
+        "has_video" : false,
+        "id" : 3695759,
+        "image" : "http://images.citysearch.net/assets/imgdb/profile/dc/57/3695759p1_100x100.gif",
+        "impression_id" : "000b0000002bf9aaa14d564bc9bfa54cda0a27332c",
+        "latitude" : 41.8369,
+        "longitude" : -87.7309,
+        "name" : "Home Run Inn",
+        "neighborhood" : "Little Village, Little Village (South Lawndale), West Side",
+        "offers" : null,
+        "phone_number" : "7732479696",
+        "profile" : "http://chicago.citysearch.com/profile/3695759/chicago_il/home_run_inn.html",
+        "public_id" : "home_run_inn-chicago-10",
+        "rating" : 9,
+        "sample_categories" : "Frozen Food Manufacturers, Restaurants, Catering, Family-Friendly Dining, American Express",
+        "tagline" : null,
+        "tags" : [
+          {
+            "id" : 2321,
+            "name" : "Frozen Food Manufacturers"
+          },
+          {
+            "id" : 1722,
+            "name" : "Restaurants"
+          },
+          {
+            "id" : 1705,
+            "name" : "Catering"
+          },
+          {
+            "id" : 11263,
+            "name" : "Family-Friendly Dining"
+          },
+          {
+            "id" : 11333,
+            "name" : "American Express"
+          },
+          {
+            "id" : 11284,
+            "name" : "Local Favorite"
+          },
+          {
+            "id" : 11382,
+            "name" : "Visa"
+          },
+          {
+            "id" : 11231,
+            "name" : "$"
+          },
+          {
+            "id" : 11269,
+            "name" : "Group Dining"
+          },
+          {
+            "id" : 11367,
+            "name" : "Open 7 Days"
+          },
+          {
+            "id" : 11349,
+            "name" : "Discover"
+          },
+          {
+            "id" : 11299,
+            "name" : "Pizza"
+          },
+          {
+            "id" : 11286,
+            "name" : "Lunch Spot"
+          },
+          {
+            "id" : 11279,
+            "name" : "Italian"
+          },
+          {
+            "id" : 11361,
+            "name" : "MasterCard"
+          }
+        ],
+        "user_review_count" : 83,
+        "website" : null
+      },
+      {
+        "address" : {
+          "city" : "Chicago",
+          "postal_code" : "60616",
+          "state" : "IL",
+          "street" : "2373 S. Archer"
+        },
+        "distance" : null,
+        "expansion" : {
+          "count" : null,
+          "uri" : null
+        },
+        "fax_number" : null,
+        "featured" : false,
+        "has_offers" : false,
+        "has_video" : false,
+        "id" : 664806420,
+        "image" : null,
+        "impression_id" : "000b000000c4b9981fe94c466b86204d6ded9f8f51",
+        "latitude" : 41.849164,
+        "longitude" : -87.641739,
+        "name" : "Connie's Pizza - Chicago",
+        "neighborhood" : "South Side, Armour Square, Armour Square (Chinatown)",
+        "offers" : null,
+        "phone_number" : "8774622521",
+        "profile" : "http://chicago.citysearch.com/profile/664806420/chicago_il/connie_s_pizza_chicago.html",
+        "public_id" : "connie_pizza-chicago-5",
+        "rating" : null,
+        "sample_categories" : "Food & Dining, Restaurants, Family-Friendly Dining, Pizza, Italian",
+        "tagline" : null,
+        "tags" : [
+          {
+            "id" : 1684,
+            "name" : "Food & Dining"
+          },
+          {
+            "id" : 1722,
+            "name" : "Restaurants"
+          },
+          {
+            "id" : 11263,
+            "name" : "Family-Friendly Dining"
+          },
+          {
+            "id" : 11299,
+            "name" : "Pizza"
+          },
+          {
+            "id" : 11279,
+            "name" : "Italian"
+          },
+          {
+            "id" : 12821,
+            "name" : "Casual Date Spot"
+          }
+        ],
+        "user_review_count" : 0,
+        "website" : "http://chicago.citysearch.com/profile/external/664806420/chicago_il/connie_s_pizza_chicago.html"
+      },
+      {
+        "address" : {
+          "city" : "Chicago",
+          "postal_code" : "60654",
+          "state" : "IL",
+          "street" : "33 W Kinzie St"
+        },
+        "distance" : null,
+        "expansion" : {
+          "count" : null,
+          "uri" : null
+        },
+        "fax_number" : null,
+        "featured" : false,
+        "has_offers" : false,
+        "has_video" : false,
+        "id" : 601577230,
+        "image" : "http://images.citysearch.net/assets/imgdb/profile/6a/86/3663717p1_100x100.jpg",
+        "impression_id" : "000b0000000ef33930c3fd4dc083799c0c758004c9",
+        "latitude" : 41.889227,
+        "longitude" : -87.629291,
+        "name" : "Harry Caray's Italian Steakhouse",
+        "neighborhood" : "Central, Near North Side",
+        "offers" : null,
+        "phone_number" : "3128280966",
+        "profile" : "http://chicago.citysearch.com/profile/601577230/chicago_il/harry_caray_s_italian_steakhouse.html",
+        "public_id" : "harry_carray_italian_steakhouse-chicago-11",
+        "rating" : 9,
+        "sample_categories" : "Bars & Pubs, Restaurants, American Express, Steakhouse, Visa",
+        "tagline" : null,
+        "tags" : [
+          {
+            "id" : 1686,
+            "name" : "Bars & Pubs"
+          },
+          {
+            "id" : 1722,
+            "name" : "Restaurants"
+          },
+          {
+            "id" : 11333,
+            "name" : "American Express"
+          },
+          {
+            "id" : 11316,
+            "name" : "Steakhouse"
+          },
+          {
+            "id" : 11382,
+            "name" : "Visa"
+          },
+          {
+            "id" : 11349,
+            "name" : "Discover"
+          },
+          {
+            "id" : 11279,
+            "name" : "Italian"
+          },
+          {
+            "id" : 11361,
+            "name" : "MasterCard"
+          }
+        ],
+        "user_review_count" : 67,
+        "website" : null
+      },
+      {
+        "address" : {
+          "city" : "Chicago",
+          "postal_code" : "60614",
+          "state" : "IL",
+          "street" : "2121 N Clark St"
+        },
+        "distance" : null,
+        "expansion" : {
+          "count" : null,
+          "uri" : null
+        },
+        "fax_number" : null,
+        "featured" : false,
+        "has_offers" : false,
+        "has_video" : false,
+        "id" : 3677687,
+        "image" : null,
+        "impression_id" : "000b0000005a3609c4c4b64abea44d40848f71cbbe",
+        "latitude" : 41.9207,
+        "longitude" : -87.6374,
+        "name" : "Chicago Pizza And Oven Grinder Company",
+        "neighborhood" : "Lincoln Park, North Side",
+        "offers" : null,
+        "phone_number" : "7732482570",
+        "profile" : "http://chicago.citysearch.com/profile/3677687/chicago_il/chicago_pizza_and_oven_grinder_company.html",
+        "public_id" : "chicago_pizza_oven_grinder_company-chicago-12",
+        "rating" : 9,
+        "sample_categories" : "Restaurants, Family-Friendly Dining, Local Favorite, $, Group Dining",
+        "tagline" : null,
+        "tags" : [
+          {
+            "id" : 1722,
+            "name" : "Restaurants"
+          },
+          {
+            "id" : 11263,
+            "name" : "Family-Friendly Dining"
+          },
+          {
+            "id" : 11284,
+            "name" : "Local Favorite"
+          },
+          {
+            "id" : 11231,
+            "name" : "$"
+          },
+          {
+            "id" : 11269,
+            "name" : "Group Dining"
+          },
+          {
+            "id" : 11256,
+            "name" : "Date Spot"
+          },
+          {
+            "id" : 11367,
+            "name" : "Open 7 Days"
+          },
+          {
+            "id" : 11299,
+            "name" : "Pizza"
+          },
+          {
+            "id" : 11279,
+            "name" : "Italian"
+          },
+          {
+            "id" : 11339,
+            "name" : "Cash"
+          },
+          {
+            "id" : 11262,
+            "name" : "Family Style Dining"
+          }
+        ],
+        "user_review_count" : 68,
+        "website" : null
+      },
+      {
+        "address" : {
+          "city" : "Chicago",
+          "postal_code" : "60611",
+          "state" : "IL",
+          "street" : "60 E. Grand"
+        },
+        "distance" : null,
+        "expansion" : {
+          "count" : null,
+          "uri" : null
+        },
+        "fax_number" : null,
+        "featured" : false,
+        "has_offers" : false,
+        "has_video" : false,
+        "id" : 11342712,
+        "image" : "http://images.citysearch.net/assets/imgdb/merchant/2010/2/10/0/UQdcVSpc152_100x100.jpeg",
+        "impression_id" : "000b0000004be3561f6858400c857962af983919b2",
+        "latitude" : 41.8918,
+        "longitude" : -87.6262,
+        "name" : "Joe's Stone Crab",
+        "neighborhood" : "Central, Near North Side",
+        "offers" : null,
+        "phone_number" : "3123795637",
+        "profile" : "http://chicago.citysearch.com/profile/11342712/chicago_il/joe_s_stone_crab.html",
+        "public_id" : "joe_stone_crab-chicago-13",
+        "rating" : 9,
+        "sample_categories" : "Restaurants, Dine At The Bar, Online Reservations, Notable Wine List, Visa",
+        "tagline" : null,
+        "tags" : [
+          {
+            "id" : 1722,
+            "name" : "Restaurants"
+          },
+          {
+            "id" : 11258,
+            "name" : "Dine At The Bar"
+          },
+          {
+            "id" : 11295,
+            "name" : "Online Reservations"
+          },
+          {
+            "id" : 11294,
+            "name" : "Notable Wine List"
+          },
+          {
+            "id" : 11382,
+            "name" : "Visa"
+          },
+          {
+            "id" : 11234,
+            "name" : "$$$$"
+          },
+          {
+            "id" : 11256,
+            "name" : "Date Spot"
+          },
+          {
+            "id" : 11269,
+            "name" : "Group Dining"
+          },
+          {
+            "id" : 11244,
+            "name" : "Business Dining"
+          },
+          {
+            "id" : 11190,
+            "name" : "Traditional American"
+          },
+          {
+            "id" : 11298,
+            "name" : "People Watching"
+          },
+          {
+            "id" : 11304,
+            "name" : "Private Rooms"
+          },
+          {
+            "id" : 11279,
+            "name" : "Italian"
+          },
+          {
+            "id" : 11315,
+            "name" : "Special Occasion Dining"
+          },
+          {
+            "id" : 11333,
+            "name" : "American Express"
+          },
+          {
+            "id" : 11316,
+            "name" : "Steakhouse"
+          },
+          {
+            "id" : 11320,
+            "name" : "Theater District Dining"
+          },
+          {
+            "id" : 11367,
+            "name" : "Open 7 Days"
+          },
+          {
+            "id" : 11349,
+            "name" : "Discover"
+          },
+          {
+            "id" : 11348,
+            "name" : "Diners Club"
+          },
+          {
+            "id" : 11238,
+            "name" : "Bar Scene"
+          },
+          {
+            "id" : 11228,
+            "name" : "Seafood"
+          },
+          {
+            "id" : 11361,
+            "name" : "MasterCard"
+          }
+        ],
+        "user_review_count" : 61,
+        "website" : null
+      },
+      {
+        "address" : {
+          "city" : "Chicago",
+          "postal_code" : "60654",
+          "state" : "IL",
+          "street" : "159 W Erie St"
+        },
+        "distance" : null,
+        "expansion" : {
+          "count" : null,
+          "uri" : null
+        },
+        "fax_number" : null,
+        "featured" : false,
+        "has_offers" : false,
+        "has_video" : false,
+        "id" : 3662797,
+        "image" : "http://images.citysearch.net/assets/imgdb/profile/e2/23/3662797p1_100x100.jpg",
+        "impression_id" : "000b0000004de57ccb67014444887a56330c3d7a79",
+        "latitude" : 41.8939,
+        "longitude" : -87.6333,
+        "name" : "Wildfire",
+        "neighborhood" : "Central, Near North Side",
+        "offers" : null,
+        "phone_number" : "3127879000",
+        "profile" : "http://chicago.citysearch.com/profile/3662797/chicago_il/wildfire.html",
+        "public_id" : "wildfire-chicago-14",
+        "rating" : 10,
+        "sample_categories" : "Barbecue Restaurants, Restaurants, Catering, Family-Friendly Dining, Local Favorite",
+        "tagline" : null,
+        "tags" : [
+          {
+            "id" : 1724,
+            "name" : "Barbecue Restaurants"
+          },
+          {
+            "id" : 1722,
+            "name" : "Restaurants"
+          },
+          {
+            "id" : 1705,
+            "name" : "Catering"
+          },
+          {
+            "id" : 11263,
+            "name" : "Family-Friendly Dining"
+          },
+          {
+            "id" : 11284,
+            "name" : "Local Favorite"
+          },
+          {
+            "id" : 11258,
+            "name" : "Dine At The Bar"
+          },
+          {
+            "id" : 11267,
+            "name" : "Food Delivery"
+          },
+          {
+            "id" : 11232,
+            "name" : "$$"
+          },
+          {
+            "id" : 11295,
+            "name" : "Online Reservations"
+          },
+          {
+            "id" : 11294,
+            "name" : "Notable Wine List"
+          },
+          {
+            "id" : 11382,
+            "name" : "Visa"
+          },
+          {
+            "id" : 11256,
+            "name" : "Date Spot"
+          },
+          {
+            "id" : 11269,
+            "name" : "Group Dining"
+          },
+          {
+            "id" : 11244,
+            "name" : "Business Dining"
+          },
+          {
+            "id" : 11298,
+            "name" : "People Watching"
+          },
+          {
+            "id" : 11304,
+            "name" : "Private Rooms"
+          },
+          {
+            "id" : 11279,
+            "name" : "Italian"
+          },
+          {
+            "id" : 11333,
+            "name" : "American Express"
+          },
+          {
+            "id" : 11316,
+            "name" : "Steakhouse"
+          },
+          {
+            "id" : 11367,
+            "name" : "Open 7 Days"
+          },
+          {
+            "id" : 11349,
+            "name" : "Discover"
+          },
+          {
+            "id" : 11348,
+            "name" : "Diners Club"
+          },
+          {
+            "id" : 11238,
+            "name" : "Bar Scene"
+          },
+          {
+            "id" : 11228,
+            "name" : "Seafood"
+          },
+          {
+            "id" : 11361,
+            "name" : "MasterCard"
+          }
+        ],
+        "user_review_count" : 42,
+        "website" : null
+      },
+      {
+        "address" : {
+          "city" : "Chicago",
+          "postal_code" : "60611",
+          "state" : "IL",
+          "street" : "676 N. St. Clair"
+        },
+        "distance" : null,
+        "expansion" : {
+          "count" : null,
+          "uri" : null
+        },
+        "fax_number" : null,
+        "featured" : false,
+        "has_offers" : false,
+        "has_video" : false,
+        "id" : 3667340,
+        "image" : "http://images.citysearch.net/assets/imgdb/profile/ab/73/3667340p1_100x100.jpg",
+        "impression_id" : "000b000000acfa5e860ec94689b91d3cd66699e2c6",
+        "latitude" : 41.8946,
+        "longitude" : -87.623,
+        "name" : "Tru",
+        "neighborhood" : "Central, Near North Side",
+        "offers" : null,
+        "phone_number" : "3122020001",
+        "profile" : "http://chicago.citysearch.com/profile/3667340/chicago_il/tru.html",
+        "public_id" : "tru-chicago-15",
+        "rating" : 8,
+        "sample_categories" : "Food & Dining, Restaurants, Family-Friendly Dining, Fine Dining, French",
+        "tagline" : null,
+        "tags" : [
+          {
+            "id" : 1684,
+            "name" : "Food & Dining"
+          },
+          {
+            "id" : 1722,
+            "name" : "Restaurants"
+          },
+          {
+            "id" : 11263,
+            "name" : "Family-Friendly Dining"
+          },
+          {
+            "id" : 11265,
+            "name" : "Fine Dining"
+          },
+          {
+            "id" : 11219,
+            "name" : "French"
+          },
+          {
+            "id" : 11284,
+            "name" : "Local Favorite"
+          },
+          {
+            "id" : 11248,
+            "name" : "Celeb Hangout"
+          },
+          {
+            "id" : 11244,
+            "name" : "Business Dining"
+          },
+          {
+            "id" : 11190,
+            "name" : "Traditional American"
+          },
+          {
+            "id" : 11315,
+            "name" : "Special Occasion Dining"
+          },
+          {
+            "id" : 11333,
+            "name" : "American Express"
+          },
+          {
+            "id" : 11322,
+            "name" : "Trendy Dining"
+          },
+          {
+            "id" : 11338,
+            "name" : "Carte Blanche"
+          },
+          {
+            "id" : 11295,
+            "name" : "Online Reservations"
+          },
+          {
+            "id" : 11382,
+            "name" : "Visa"
+          },
+          {
+            "id" : 11294,
+            "name" : "Notable Wine List"
+          },
+          {
+            "id" : 11293,
+            "name" : "Notable Chef"
+          },
+          {
+            "id" : 11234,
+            "name" : "$$$$"
+          },
+          {
+            "id" : 11298,
+            "name" : "People Watching"
+          },
+          {
+            "id" : 11304,
+            "name" : "Private Rooms"
+          },
+          {
+            "id" : 11279,
+            "name" : "Italian"
+          },
+          {
+            "id" : 11251,
+            "name" : "Chef's Table"
+          },
+          {
+            "id" : 11305,
+            "name" : "Prix Fixe Menu"
+          },
+          {
+            "id" : 11306,
+            "name" : "Quiet"
+          },
+          {
+            "id" : 11307,
+            "name" : "Romantic Dining"
+          },
+          {
+            "id" : 11349,
+            "name" : "Discover"
+          },
+          {
+            "id" : 11348,
+            "name" : "Diners Club"
+          },
+          {
+            "id" : 11361,
+            "name" : "MasterCard"
+          }
+        ],
+        "user_review_count" : 50,
+        "website" : null
+      },
+      {
+        "address" : {
+          "city" : "Chicago",
+          "postal_code" : "60652",
+          "state" : "IL",
+          "street" : "8433 S Pulaski Rd"
+        },
+        "distance" : null,
+        "expansion" : {
+          "count" : null,
+          "uri" : null
+        },
+        "fax_number" : null,
+        "featured" : false,
+        "has_offers" : false,
+        "has_video" : false,
+        "id" : 3731188,
+        "image" : "http://images.citysearch.net/assets/imgdb/guide/2010/6/9/0/BqiGXwxL51_100x100.jpeg",
+        "impression_id" : "000b0000001bd19ffae1204c2ca55b5acdc7e84bbc",
+        "latitude" : 41.7393,
+        "longitude" : -87.7215,
+        "name" : "Vito & Nick's Pizzeria",
+        "neighborhood" : "Ashburn, Far southwest Side",
+        "offers" : null,
+        "phone_number" : "7737352050",
+        "profile" : "http://chicago.citysearch.com/profile/3731188/chicago_il/vito_nick_s_pizzeria.html",
+        "public_id" : "vito_nick_pizzeria-chicago-16",
+        "rating" : 9,
+        "sample_categories" : "Restaurants, Family-Friendly Dining, Local Favorite, Dine At The Bar, $",
+        "tagline" : null,
+        "tags" : [
+          {
+            "id" : 1722,
+            "name" : "Restaurants"
+          },
+          {
+            "id" : 11263,
+            "name" : "Family-Friendly Dining"
+          },
+          {
+            "id" : 11284,
+            "name" : "Local Favorite"
+          },
+          {
+            "id" : 11258,
+            "name" : "Dine At The Bar"
+          },
+          {
+            "id" : 11231,
+            "name" : "$"
+          },
+          {
+            "id" : 11269,
+            "name" : "Group Dining"
+          },
+          {
+            "id" : 11367,
+            "name" : "Open 7 Days"
+          },
+          {
+            "id" : 11249,
+            "name" : "Cheap Eats"
+          },
+          {
+            "id" : 11299,
+            "name" : "Pizza"
+          },
+          {
+            "id" : 11279,
+            "name" : "Italian"
+          },
+          {
+            "id" : 11339,
+            "name" : "Cash"
+          }
+        ],
+        "user_review_count" : 43,
+        "website" : null
+      },
+      {
+        "address" : {
+          "city" : "Chicago",
+          "postal_code" : "60610",
+          "state" : "IL",
+          "street" : "500 N Franklin St"
+        },
+        "distance" : null,
+        "expansion" : {
+          "count" : null,
+          "uri" : null
+        },
+        "fax_number" : null,
+        "featured" : false,
+        "has_offers" : false,
+        "has_video" : false,
+        "id" : 3663647,
+        "image" : "http://images.citysearch.net/assets/imgdb/profile/c9/3e/3663647p1_100x100.jpg",
+        "impression_id" : "000b0000002020e8facf7e4f95afff235121cc8588",
+        "latitude" : 41.8909,
+        "longitude" : -87.6356,
+        "name" : "Gene & Georgetti ",
+        "neighborhood" : "Central, Near North Side",
+        "offers" : null,
+        "phone_number" : "3125273718",
+        "profile" : "http://chicago.citysearch.com/profile/3663647/chicago_il/gene_georgetti.html",
+        "public_id" : "gene_georgetti-chicago-17",
+        "rating" : 6,
+        "sample_categories" : "Restaurants, Historic Setting, Local Favorite, Celeb Hangout, Visa",
+        "tagline" : null,
+        "tags" : [
+          {
+            "id" : 1722,
+            "name" : "Restaurants"
+          },
+          {
+            "id" : 11273,
+            "name" : "Historic Setting"
+          },
+          {
+            "id" : 11284,
+            "name" : "Local Favorite"
+          },
+          {
+            "id" : 11248,
+            "name" : "Celeb Hangout"
+          },
+          {
+            "id" : 11382,
+            "name" : "Visa"
+          },
+          {
+            "id" : 11234,
+            "name" : "$$$$"
+          },
+          {
+            "id" : 11269,
+            "name" : "Group Dining"
+          },
+          {
+            "id" : 11244,
+            "name" : "Business Dining"
+          },
+          {
+            "id" : 11298,
+            "name" : "People Watching"
+          },
+          {
+            "id" : 11304,
+            "name" : "Private Rooms"
+          },
+          {
+            "id" : 11279,
+            "name" : "Italian"
+          },
+          {
+            "id" : 11333,
+            "name" : "American Express"
+          },
+          {
+            "id" : 11316,
+            "name" : "Steakhouse"
+          },
+          {
+            "id" : 11348,
+            "name" : "Diners Club"
+          },
+          {
+            "id" : 11361,
+            "name" : "MasterCard"
+          }
+        ],
+        "user_review_count" : 60,
+        "website" : null
+      },
+      {
+        "address" : {
+          "city" : "Chicago",
+          "postal_code" : "60611",
+          "state" : "IL",
+          "street" : "201 E Grand Ave"
+        },
+        "distance" : null,
+        "expansion" : {
+          "count" : null,
+          "uri" : null
+        },
+        "fax_number" : null,
+        "featured" : false,
+        "has_offers" : false,
+        "has_video" : false,
+        "id" : 3668304,
+        "image" : "http://images.citysearch.net/assets/imgdb/advertorial_profile/60/54/V-CHIIL-55040929_ID44024_guide_inclusion_100x100.jpg",
+        "impression_id" : "000b0000002f127ab45eb546e38c5f3aa292970dc5",
+        "latitude" : 41.8916,
+        "longitude" : -87.6225,
+        "name" : "Volare Ristorante Italiano",
+        "neighborhood" : "Central, Near North Side",
+        "offers" : null,
+        "phone_number" : "3124109900",
+        "profile" : "http://chicago.citysearch.com/profile/3668304/chicago_il/volare_ristorante_italiano.html",
+        "public_id" : "volare_ristorante_italiano-chicago-18",
+        "rating" : 8,
+        "sample_categories" : "Restaurants, American Express, Visa, $$$, Open 7 Days",
+        "tagline" : null,
+        "tags" : [
+          {
+            "id" : 1722,
+            "name" : "Restaurants"
+          },
+          {
+            "id" : 11333,
+            "name" : "American Express"
+          },
+          {
+            "id" : 11382,
+            "name" : "Visa"
+          },
+          {
+            "id" : 11233,
+            "name" : "$$$"
+          },
+          {
+            "id" : 11367,
+            "name" : "Open 7 Days"
+          },
+          {
+            "id" : 11349,
+            "name" : "Discover"
+          },
+          {
+            "id" : 11296,
+            "name" : "Outdoor Dining"
+          },
+          {
+            "id" : 11348,
+            "name" : "Diners Club"
+          },
+          {
+            "id" : 11279,
+            "name" : "Italian"
+          },
+          {
+            "id" : 11306,
+            "name" : "Quiet"
+          },
+          {
+            "id" : 11361,
+            "name" : "MasterCard"
+          },
+          {
+            "id" : 11307,
+            "name" : "Romantic Dining"
+          }
+        ],
+        "user_review_count" : 43,
+        "website" : null
+      },
+      {
+        "address" : {
+          "city" : "Chicago",
+          "postal_code" : "60607",
+          "state" : "IL",
+          "street" : "1154 W Taylor St"
+        },
+        "distance" : null,
+        "expansion" : {
+          "count" : null,
+          "uri" : null
+        },
+        "fax_number" : null,
+        "featured" : false,
+        "has_offers" : false,
+        "has_video" : false,
+        "id" : 3657197,
+        "image" : "http://images.citysearch.net/assets/imgdb/profile/27/14/3657197p1_100x100.jpg",
+        "impression_id" : "000b0000005a04cc3483f24b9faed11df4b2798d00",
+        "latitude" : 41.8696,
+        "longitude" : -87.6558,
+        "name" : "RoSal's Italian Kitchen",
+        "neighborhood" : "West Side, University Village / Little Italy",
+        "offers" : null,
+        "phone_number" : "3122432357",
+        "profile" : "http://chicago.citysearch.com/profile/3657197/chicago_il/rosal_s_italian_kitchen.html",
+        "public_id" : "rosal_italian_kitchen-chicago-19",
+        "rating" : 10,
+        "sample_categories" : "Restaurants, Family-Friendly Dining, American Express, Local Favorite, $$",
+        "tagline" : null,
+        "tags" : [
+          {
+            "id" : 1722,
+            "name" : "Restaurants"
+          },
+          {
+            "id" : 11263,
+            "name" : "Family-Friendly Dining"
+          },
+          {
+            "id" : 11333,
+            "name" : "American Express"
+          },
+          {
+            "id" : 11284,
+            "name" : "Local Favorite"
+          },
+          {
+            "id" : 11232,
+            "name" : "$$"
+          },
+          {
+            "id" : 11382,
+            "name" : "Visa"
+          },
+          {
+            "id" : 11269,
+            "name" : "Group Dining"
+          },
+          {
+            "id" : 11349,
+            "name" : "Discover"
+          },
+          {
+            "id" : 11279,
+            "name" : "Italian"
+          },
+          {
+            "id" : 11306,
+            "name" : "Quiet"
+          },
+          {
+            "id" : 11361,
+            "name" : "MasterCard"
+          }
+        ],
+        "user_review_count" : 32,
+        "website" : null
+      },
+      {
+        "address" : {
+          "city" : "Chicago",
+          "postal_code" : "60611",
+          "state" : "IL",
+          "street" : "1043 N Rush St"
+        },
+        "distance" : null,
+        "expansion" : {
+          "count" : null,
+          "uri" : null
+        },
+        "fax_number" : null,
+        "featured" : true,
+        "has_offers" : false,
+        "has_video" : false,
+        "id" : 3668390,
+        "image" : "http://images.citysearch.net/assets/imgdb/7d/aa/8f/0a/7c/e8/47/94/81/fb/29/c3/1c/e4/39/be_100x100.JPG",
+        "impression_id" : "000b000000da70effeb65f4ec4970b1e5776676dc6",
+        "latitude" : 41.90175,
+        "longitude" : -87.628,
+        "name" : "Carmine's",
+        "neighborhood" : "Central, Near North Side",
+        "offers" : null,
+        "phone_number" : "3129887676",
+        "profile" : "http://chicago.citysearch.com/profile/3668390/chicago_il/carmine_s.html",
+        "public_id" : "carmine-chicago-20",
+        "rating" : 8,
+        "sample_categories" : "Restaurants, Live Music, Hamburgers, Visa, $$$",
+        "tagline" : null,
+        "tags" : [
+          {
+            "id" : 1722,
+            "name" : "Restaurants"
+          },
+          {
+            "id" : 11283,
+            "name" : "Live Music"
+          },
+          {
+            "id" : 11270,
+            "name" : "Hamburgers"
+          },
+          {
+            "id" : 11382,
+            "name" : "Visa"
+          },
+          {
+            "id" : 11233,
+            "name" : "$$$"
+          },
+          {
+            "id" : 11244,
+            "name" : "Business Dining"
+          },
+          {
+            "id" : 11298,
+            "name" : "People Watching"
+          },
+          {
+            "id" : 11304,
+            "name" : "Private Rooms"
+          },
+          {
+            "id" : 11279,
+            "name" : "Italian"
+          },
+          {
+            "id" : 11333,
+            "name" : "American Express"
+          },
+          {
+            "id" : 11367,
+            "name" : "Open 7 Days"
+          },
+          {
+            "id" : 11349,
+            "name" : "Discover"
+          },
+          {
+            "id" : 11348,
+            "name" : "Diners Club"
+          },
+          {
+            "id" : 11228,
+            "name" : "Seafood"
+          },
+          {
+            "id" : 11361,
+            "name" : "MasterCard"
+          },
+          {
+            "id" : 11339,
+            "name" : "Cash"
+          }
+        ],
+        "user_review_count" : 42,
+        "website" : null
+      }
+    ],
+    "page" : 1,
+    "query_id" : null,
+    "regions" : [
+      {
+        "default_radius" : 15.3,
+        "latitude" : 41.836808,
+        "longitude" : -87.684548,
+        "name" : "Chicago, IL",
+        "type" : "city"
+      }
+    ],
+    "rpp" : 20,
+    "total_hits" : 643,
+    "uri" : "http://api.citygridmedia.com/search/places/v2/search/where?has_offers=false&format=json&page=1&rpp=20&histograms=false&what=restaurant&where=chicago%2CIL&tag=11279&region_type=circle&publisher=test&placement=sec-5"
+  }
+}

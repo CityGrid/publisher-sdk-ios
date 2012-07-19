@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'CityGrid' target in the 'CityGrid' project
+//
+
+#ifdef __OBJC__
+	#import <Foundation/Foundation.h>
+#endif

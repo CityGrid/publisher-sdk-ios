@@ -1,0 +1,375 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		4E03D84B13AC5B7D0005E90D /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4E03D84A13AC5B7D0005E90D /* UIKit.framework */; };
+		4E03D84D13AC5B7D0005E90D /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4E03D84C13AC5B7D0005E90D /* Foundation.framework */; };
+		4E03D84F13AC5B7D0005E90D /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4E03D84E13AC5B7D0005E90D /* CoreGraphics.framework */; };
+		4E03D88813AC5C8E0005E90D /* CGEAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 4E03D88513AC5C8E0005E90D /* CGEAppDelegate.m */; };
+		4E03D89313AC5C940005E90D /* CGEMainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 4E03D88D13AC5C940005E90D /* CGEMainWindow.xib */; };
+		4E03D89413AC5C940005E90D /* CGEPlacesViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4E03D88F13AC5C940005E90D /* CGEPlacesViewController.m */; };
+		4E03D89513AC5C940005E90D /* CGEPlaces.xib in Resources */ = {isa = PBXBuildFile; fileRef = 4E03D89013AC5C940005E90D /* CGEPlaces.xib */; };
+		4E03D89713AC5CB90005E90D /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 4E03D89613AC5CB90005E90D /* main.m */; };
+		4E03D8F713AC644A0005E90D /* CGEIcon.png in Resources */ = {isa = PBXBuildFile; fileRef = 4E03D8F613AC644A0005E90D /* CGEIcon.png */; };
+		4E03D91313AC701F0005E90D /* CoreLocation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4E03D91213AC701F0005E90D /* CoreLocation.framework */; };
+		4E03D93513AC7A5C0005E90D /* CGEPlaceViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4E03D93313AC7A5C0005E90D /* CGEPlaceViewController.m */; };
+		4E03D93613AC7A5C0005E90D /* CGEPlace.xib in Resources */ = {isa = PBXBuildFile; fileRef = 4E03D93413AC7A5C0005E90D /* CGEPlace.xib */; };
+		4E737DC313E76C00003A03DC /* ads_custom_v2_latlon.json in Resources */ = {isa = PBXBuildFile; fileRef = 4E737DB613E76C00003A03DC /* ads_custom_v2_latlon.json */; };
+		4E737DC413E76C00003A03DC /* ads_custom_v2_where.json in Resources */ = {isa = PBXBuildFile; fileRef = 4E737DB713E76C00003A03DC /* ads_custom_v2_where.json */; };
+		4E737DC513E76C00003A03DC /* ads_mobile_v2_banner.json in Resources */ = {isa = PBXBuildFile; fileRef = 4E737DB813E76C00003A03DC /* ads_mobile_v2_banner.json */; };
+		4E737DC613E76C00003A03DC /* ads_tracker_imp.json in Resources */ = {isa = PBXBuildFile; fileRef = 4E737DB913E76C00003A03DC /* ads_tracker_imp.json */; };
+		4E737DC713E76C00003A03DC /* content_offers_v2_detail.json in Resources */ = {isa = PBXBuildFile; fileRef = 4E737DBA13E76C00003A03DC /* content_offers_v2_detail.json */; };
+		4E737DC813E76C00003A03DC /* content_offers_v2_search_latlon.json in Resources */ = {isa = PBXBuildFile; fileRef = 4E737DBB13E76C00003A03DC /* content_offers_v2_search_latlon.json */; };
+		4E737DC913E76C00003A03DC /* content_offers_v2_search_where.json in Resources */ = {isa = PBXBuildFile; fileRef = 4E737DBC13E76C00003A03DC /* content_offers_v2_search_where.json */; };
+		4E737DCA13E76C00003A03DC /* content_places_v2_detail.json in Resources */ = {isa = PBXBuildFile; fileRef = 4E737DBD13E76C00003A03DC /* content_places_v2_detail.json */; };
+		4E737DCB13E76C00003A03DC /* content_places_v2_search_latlon.json in Resources */ = {isa = PBXBuildFile; fileRef = 4E737DBE13E76C00003A03DC /* content_places_v2_search_latlon.json */; };
+		4E737DCC13E76C00003A03DC /* content_places_v2_search_where.json in Resources */ = {isa = PBXBuildFile; fileRef = 4E737DBF13E76C00003A03DC /* content_places_v2_search_where.json */; };
+		4E737DCD13E76C00003A03DC /* content_reviews_v2_search_latlon.json in Resources */ = {isa = PBXBuildFile; fileRef = 4E737DC013E76C00003A03DC /* content_reviews_v2_search_latlon.json */; };
+		4E737DCE13E76C00003A03DC /* content_reviews_v2_search_where.json in Resources */ = {isa = PBXBuildFile; fileRef = 4E737DC113E76C00003A03DC /* content_reviews_v2_search_where.json */; };
+		4E9C41A313CBA6CF006FD8D7 /* CityGrid.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4E9C41A213CBA6CF006FD8D7 /* CityGrid.framework */; };
+		AC9A6287140C0C120059F5FD /* CGESearchTypeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = AC9A6285140C0C120059F5FD /* CGESearchTypeViewController.m */; };
+		AC9A6288140C0C120059F5FD /* CGESearchTypeViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = AC9A6286140C0C120059F5FD /* CGESearchTypeViewController.xib */; };
+		AC9A628C140C0D6E0059F5FD /* CGEParametersViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = AC9A628A140C0D6D0059F5FD /* CGEParametersViewController.m */; };
+		AC9A628D140C0D6E0059F5FD /* CGEParametersViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = AC9A628B140C0D6D0059F5FD /* CGEParametersViewController.xib */; };
+		AC9A6296140C100D0059F5FD /* CGEReviewsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = AC9A6294140C100B0059F5FD /* CGEReviewsViewController.m */; };
+		AC9A6297140C100D0059F5FD /* CGEReviewsViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = AC9A6295140C100C0059F5FD /* CGEReviewsViewController.xib */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		4E03D84613AC5B7D0005E90D /* CityGridExample.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CityGridExample.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		4E03D84A13AC5B7D0005E90D /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		4E03D84C13AC5B7D0005E90D /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		4E03D84E13AC5B7D0005E90D /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		4E03D88413AC5C8E0005E90D /* CGEAppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CGEAppDelegate.h; sourceTree = "<group>"; };
+		4E03D88513AC5C8E0005E90D /* CGEAppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CGEAppDelegate.m; sourceTree = "<group>"; };
+		4E03D88613AC5C8E0005E90D /* CGEInfo.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = CGEInfo.plist; sourceTree = "<group>"; };
+		4E03D88713AC5C8E0005E90D /* CGEPrefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CGEPrefix.pch; sourceTree = "<group>"; };
+		4E03D88D13AC5C940005E90D /* CGEMainWindow.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = CGEMainWindow.xib; sourceTree = "<group>"; };
+		4E03D88E13AC5C940005E90D /* CGEPlacesViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CGEPlacesViewController.h; sourceTree = "<group>"; };
+		4E03D88F13AC5C940005E90D /* CGEPlacesViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CGEPlacesViewController.m; sourceTree = "<group>"; };
+		4E03D89013AC5C940005E90D /* CGEPlaces.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = CGEPlaces.xib; sourceTree = "<group>"; };
+		4E03D89613AC5CB90005E90D /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		4E03D8F613AC644A0005E90D /* CGEIcon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = CGEIcon.png; sourceTree = "<group>"; };
+		4E03D91213AC701F0005E90D /* CoreLocation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreLocation.framework; path = System/Library/Frameworks/CoreLocation.framework; sourceTree = SDKROOT; };
+		4E03D93213AC7A5C0005E90D /* CGEPlaceViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CGEPlaceViewController.h; sourceTree = "<group>"; };
+		4E03D93313AC7A5C0005E90D /* CGEPlaceViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CGEPlaceViewController.m; sourceTree = "<group>"; };
+		4E03D93413AC7A5C0005E90D /* CGEPlace.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = CGEPlace.xib; sourceTree = "<group>"; };
+		4E737DB213E76C00003A03DC /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = CityGrid.framework/Resources/Info.plist; sourceTree = SOURCE_ROOT; };
+		4E737DB613E76C00003A03DC /* ads_custom_v2_latlon.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = ads_custom_v2_latlon.json; path = CityGrid.framework/Resources/Simulation/ads_custom_v2_latlon.json; sourceTree = SOURCE_ROOT; };
+		4E737DB713E76C00003A03DC /* ads_custom_v2_where.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = ads_custom_v2_where.json; path = CityGrid.framework/Resources/Simulation/ads_custom_v2_where.json; sourceTree = SOURCE_ROOT; };
+		4E737DB813E76C00003A03DC /* ads_mobile_v2_banner.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = ads_mobile_v2_banner.json; path = CityGrid.framework/Resources/Simulation/ads_mobile_v2_banner.json; sourceTree = SOURCE_ROOT; };
+		4E737DB913E76C00003A03DC /* ads_tracker_imp.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = ads_tracker_imp.json; path = CityGrid.framework/Resources/Simulation/ads_tracker_imp.json; sourceTree = SOURCE_ROOT; };
+		4E737DBA13E76C00003A03DC /* content_offers_v2_detail.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = content_offers_v2_detail.json; path = CityGrid.framework/Resources/Simulation/content_offers_v2_detail.json; sourceTree = SOURCE_ROOT; };
+		4E737DBB13E76C00003A03DC /* content_offers_v2_search_latlon.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = content_offers_v2_search_latlon.json; path = CityGrid.framework/Resources/Simulation/content_offers_v2_search_latlon.json; sourceTree = SOURCE_ROOT; };
+		4E737DBC13E76C00003A03DC /* content_offers_v2_search_where.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = content_offers_v2_search_where.json; path = CityGrid.framework/Resources/Simulation/content_offers_v2_search_where.json; sourceTree = SOURCE_ROOT; };
+		4E737DBD13E76C00003A03DC /* content_places_v2_detail.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = content_places_v2_detail.json; path = CityGrid.framework/Resources/Simulation/content_places_v2_detail.json; sourceTree = SOURCE_ROOT; };
+		4E737DBE13E76C00003A03DC /* content_places_v2_search_latlon.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = content_places_v2_search_latlon.json; path = CityGrid.framework/Resources/Simulation/content_places_v2_search_latlon.json; sourceTree = SOURCE_ROOT; };
+		4E737DBF13E76C00003A03DC /* content_places_v2_search_where.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = content_places_v2_search_where.json; path = CityGrid.framework/Resources/Simulation/content_places_v2_search_where.json; sourceTree = SOURCE_ROOT; };
+		4E737DC013E76C00003A03DC /* content_reviews_v2_search_latlon.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = content_reviews_v2_search_latlon.json; path = CityGrid.framework/Resources/Simulation/content_reviews_v2_search_latlon.json; sourceTree = SOURCE_ROOT; };
+		4E737DC113E76C00003A03DC /* content_reviews_v2_search_where.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = content_reviews_v2_search_where.json; path = CityGrid.framework/Resources/Simulation/content_reviews_v2_search_where.json; sourceTree = SOURCE_ROOT; };
+		4E9C41A213CBA6CF006FD8D7 /* CityGrid.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = CityGrid.framework; sourceTree = "<group>"; };
+		AC378DF8140EDF34005867CC /* CGESearchType.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CGESearchType.h; sourceTree = "<group>"; };
+		AC9A6284140C0C120059F5FD /* CGESearchTypeViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CGESearchTypeViewController.h; sourceTree = "<group>"; };
+		AC9A6285140C0C120059F5FD /* CGESearchTypeViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CGESearchTypeViewController.m; sourceTree = "<group>"; };
+		AC9A6286140C0C120059F5FD /* CGESearchTypeViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = CGESearchTypeViewController.xib; sourceTree = "<group>"; };
+		AC9A6289140C0D6C0059F5FD /* CGEParametersViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CGEParametersViewController.h; sourceTree = "<group>"; };
+		AC9A628A140C0D6D0059F5FD /* CGEParametersViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CGEParametersViewController.m; sourceTree = "<group>"; };
+		AC9A628B140C0D6D0059F5FD /* CGEParametersViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = CGEParametersViewController.xib; sourceTree = "<group>"; };
+		AC9A6293140C100B0059F5FD /* CGEReviewsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CGEReviewsViewController.h; sourceTree = "<group>"; };
+		AC9A6294140C100B0059F5FD /* CGEReviewsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CGEReviewsViewController.m; sourceTree = "<group>"; };
+		AC9A6295140C100C0059F5FD /* CGEReviewsViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = CGEReviewsViewController.xib; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		4E03D84313AC5B7D0005E90D /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				4E03D84B13AC5B7D0005E90D /* UIKit.framework in Frameworks */,
+				4E03D84D13AC5B7D0005E90D /* Foundation.framework in Frameworks */,
+				4E03D84F13AC5B7D0005E90D /* CoreGraphics.framework in Frameworks */,
+				4E03D91313AC701F0005E90D /* CoreLocation.framework in Frameworks */,
+				4E9C41A313CBA6CF006FD8D7 /* CityGrid.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		4E03D83B13AC5B7D0005E90D = {
+			isa = PBXGroup;
+			children = (
+				4E03D88313AC5C8E0005E90D /* Application */,
+				4E03D88A13AC5C940005E90D /* UI */,
+				4E9C419613CB9DEE006FD8D7 /* Frameworks */,
+				4E03D84713AC5B7D0005E90D /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		4E03D84713AC5B7D0005E90D /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				4E03D84613AC5B7D0005E90D /* CityGridExample.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		4E03D88313AC5C8E0005E90D /* Application */ = {
+			isa = PBXGroup;
+			children = (
+				4E03D89613AC5CB90005E90D /* main.m */,
+				4E03D88413AC5C8E0005E90D /* CGEAppDelegate.h */,
+				4E03D88513AC5C8E0005E90D /* CGEAppDelegate.m */,
+				4E03D88613AC5C8E0005E90D /* CGEInfo.plist */,
+				4E03D88713AC5C8E0005E90D /* CGEPrefix.pch */,
+				4E03D8F613AC644A0005E90D /* CGEIcon.png */,
+			);
+			path = Application;
+			sourceTree = "<group>";
+		};
+		4E03D88A13AC5C940005E90D /* UI */ = {
+			isa = PBXGroup;
+			children = (
+				4E03D88D13AC5C940005E90D /* CGEMainWindow.xib */,
+				4E03D89013AC5C940005E90D /* CGEPlaces.xib */,
+				4E03D88E13AC5C940005E90D /* CGEPlacesViewController.h */,
+				4E03D88F13AC5C940005E90D /* CGEPlacesViewController.m */,
+				4E03D93213AC7A5C0005E90D /* CGEPlaceViewController.h */,
+				4E03D93313AC7A5C0005E90D /* CGEPlaceViewController.m */,
+				4E03D93413AC7A5C0005E90D /* CGEPlace.xib */,
+				AC9A6284140C0C120059F5FD /* CGESearchTypeViewController.h */,
+				AC9A6285140C0C120059F5FD /* CGESearchTypeViewController.m */,
+				AC9A6286140C0C120059F5FD /* CGESearchTypeViewController.xib */,
+				AC9A6289140C0D6C0059F5FD /* CGEParametersViewController.h */,
+				AC9A628A140C0D6D0059F5FD /* CGEParametersViewController.m */,
+				AC9A628B140C0D6D0059F5FD /* CGEParametersViewController.xib */,
+				AC9A6293140C100B0059F5FD /* CGEReviewsViewController.h */,
+				AC9A6294140C100B0059F5FD /* CGEReviewsViewController.m */,
+				AC9A6295140C100C0059F5FD /* CGEReviewsViewController.xib */,
+				AC378DF8140EDF34005867CC /* CGESearchType.h */,
+			);
+			path = UI;
+			sourceTree = "<group>";
+		};
+		4E737DAF13E76C00003A03DC /* CityGrid.framework Resources */ = {
+			isa = PBXGroup;
+			children = (
+				4E737DB213E76C00003A03DC /* Info.plist */,
+				4E737DB313E76C00003A03DC /* Simulation */,
+			);
+			name = "CityGrid.framework Resources";
+			path = CityGrid.framework/Versions/1/Resources;
+			sourceTree = "<group>";
+		};
+		4E737DB313E76C00003A03DC /* Simulation */ = {
+			isa = PBXGroup;
+			children = (
+				4E737DB613E76C00003A03DC /* ads_custom_v2_latlon.json */,
+				4E737DB713E76C00003A03DC /* ads_custom_v2_where.json */,
+				4E737DB813E76C00003A03DC /* ads_mobile_v2_banner.json */,
+				4E737DB913E76C00003A03DC /* ads_tracker_imp.json */,
+				4E737DBA13E76C00003A03DC /* content_offers_v2_detail.json */,
+				4E737DBB13E76C00003A03DC /* content_offers_v2_search_latlon.json */,
+				4E737DBC13E76C00003A03DC /* content_offers_v2_search_where.json */,
+				4E737DBD13E76C00003A03DC /* content_places_v2_detail.json */,
+				4E737DBE13E76C00003A03DC /* content_places_v2_search_latlon.json */,
+				4E737DBF13E76C00003A03DC /* content_places_v2_search_where.json */,
+				4E737DC013E76C00003A03DC /* content_reviews_v2_search_latlon.json */,
+				4E737DC113E76C00003A03DC /* content_reviews_v2_search_where.json */,
+			);
+			path = Simulation;
+			sourceTree = "<group>";
+		};
+		4E9C419613CB9DEE006FD8D7 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				4E03D84C13AC5B7D0005E90D /* Foundation.framework */,
+				4E03D84E13AC5B7D0005E90D /* CoreGraphics.framework */,
+				4E03D84A13AC5B7D0005E90D /* UIKit.framework */,
+				4E03D91213AC701F0005E90D /* CoreLocation.framework */,
+				4E9C41A213CBA6CF006FD8D7 /* CityGrid.framework */,
+				4E737DAF13E76C00003A03DC /* CityGrid.framework Resources */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		4E03D84513AC5B7D0005E90D /* CityGridExample */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 4E03D86713AC5B7D0005E90D /* Build configuration list for PBXNativeTarget "CityGridExample" */;
+			buildPhases = (
+				4E03D84213AC5B7D0005E90D /* Sources */,
+				4E03D84313AC5B7D0005E90D /* Frameworks */,
+				4E03D84413AC5B7D0005E90D /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = CityGridExample;
+			productName = CityGridExample;
+			productReference = 4E03D84613AC5B7D0005E90D /* CityGridExample.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		4E03D83D13AC5B7D0005E90D /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0430;
+			};
+			buildConfigurationList = 4E03D84013AC5B7D0005E90D /* Build configuration list for PBXProject "CityGridExample" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 4E03D83B13AC5B7D0005E90D;
+			productRefGroup = 4E03D84713AC5B7D0005E90D /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				4E03D84513AC5B7D0005E90D /* CityGridExample */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		4E03D84413AC5B7D0005E90D /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				4E03D89313AC5C940005E90D /* CGEMainWindow.xib in Resources */,
+				4E03D89513AC5C940005E90D /* CGEPlaces.xib in Resources */,
+				4E03D8F713AC644A0005E90D /* CGEIcon.png in Resources */,
+				4E03D93613AC7A5C0005E90D /* CGEPlace.xib in Resources */,
+				4E737DC313E76C00003A03DC /* ads_custom_v2_latlon.json in Resources */,
+				4E737DC413E76C00003A03DC /* ads_custom_v2_where.json in Resources */,
+				4E737DC513E76C00003A03DC /* ads_mobile_v2_banner.json in Resources */,
+				4E737DC613E76C00003A03DC /* ads_tracker_imp.json in Resources */,
+				4E737DC713E76C00003A03DC /* content_offers_v2_detail.json in Resources */,
+				4E737DC813E76C00003A03DC /* content_offers_v2_search_latlon.json in Resources */,
+				4E737DC913E76C00003A03DC /* content_offers_v2_search_where.json in Resources */,
+				4E737DCA13E76C00003A03DC /* content_places_v2_detail.json in Resources */,
+				4E737DCB13E76C00003A03DC /* content_places_v2_search_latlon.json in Resources */,
+				4E737DCC13E76C00003A03DC /* content_places_v2_search_where.json in Resources */,
+				4E737DCD13E76C00003A03DC /* content_reviews_v2_search_latlon.json in Resources */,
+				4E737DCE13E76C00003A03DC /* content_reviews_v2_search_where.json in Resources */,
+				AC9A6288140C0C120059F5FD /* CGESearchTypeViewController.xib in Resources */,
+				AC9A628D140C0D6E0059F5FD /* CGEParametersViewController.xib in Resources */,
+				AC9A6297140C100D0059F5FD /* CGEReviewsViewController.xib in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		4E03D84213AC5B7D0005E90D /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				4E03D88813AC5C8E0005E90D /* CGEAppDelegate.m in Sources */,
+				4E03D89413AC5C940005E90D /* CGEPlacesViewController.m in Sources */,
+				4E03D89713AC5CB90005E90D /* main.m in Sources */,
+				4E03D93513AC7A5C0005E90D /* CGEPlaceViewController.m in Sources */,
+				AC9A6287140C0C120059F5FD /* CGESearchTypeViewController.m in Sources */,
+				AC9A628C140C0D6E0059F5FD /* CGEParametersViewController.m in Sources */,
+				AC9A6296140C100D0059F5FD /* CGEReviewsViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		4E03D86513AC5B7D0005E90D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = Application/CGEPrefix.pch;
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				INFOPLIST_FILE = Application/CGEInfo.plist;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		4E03D86613AC5B7D0005E90D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = Application/CGEPrefix.pch;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				INFOPLIST_FILE = Application/CGEInfo.plist;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				SDKROOT = iphoneos;
+			};
+			name = Release;
+		};
+		4E03D86813AC5B7D0005E90D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"$(SRCROOT)\"",
+				);
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		4E03D86913AC5B7D0005E90D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"$(SRCROOT)\"",
+				);
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		4E03D84013AC5B7D0005E90D /* Build configuration list for PBXProject "CityGridExample" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				4E03D86513AC5B7D0005E90D /* Debug */,
+				4E03D86613AC5B7D0005E90D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		4E03D86713AC5B7D0005E90D /* Build configuration list for PBXNativeTarget "CityGridExample" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				4E03D86813AC5B7D0005E90D /* Debug */,
+				4E03D86913AC5B7D0005E90D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 4E03D83D13AC5B7D0005E90D /* Project object */;
+}

@@ -1,0 +1,30 @@
+{
+  "ads" : [
+    {
+      "adDestinationUrl" : "http://pfpc.citysearch.com/pfp/ad/v2?q=bjac6qs3coUk0ir2g2QpK5fr7t5uSgxhLLaHmlQhDNLtRMYnL65VMzpt9VotOqevNTMmdVMHnTPyhgssCujaHTey0z3fgYZINXPGYRN5kCW0fDTW26dIiOZg-j7h6UEd_1D5mRcEoxvLVmWk4UHugiXrbX6fWvBCkjjuasbDzI9xWy3CdCrRCUKHu3iS-AYpEWf3hhhnhAXyQd5vFz2uTsIuiNWU8JyDxZtNkp8JCHGtqn0LDfSBRJtnDd-aSYX3XFoTt8kkmVhRhqmAwMYkwTXgiHk5Wfnaa7thYv7vzPDMI1ibGJixbI3dk3cVscPxZJLsIFf2gxh7CtmKzvItwg",
+      "adDisplayUrl" : "http://www.citysearch.com/profile/92474",
+      "adImageUrl" : "http://images.citysearch.net/assets/imgdb/profile/25/4c/92474p1.jpg",
+      "attributionText" : "Bombay Cafe has good deal",
+      "city" : "Los Angeles",
+      "description" : "",
+      "distance" : 18.920566303353215,
+      "id" : 46764812,
+      "impressionId" : "000700000997423f56b5c143c1b48dd4611ace55a4",
+      "latitude" : 34.0298,
+      "listingId" : 92474,
+      "longitude" : -118.4495,
+      "name" : "Bombay Cafe",
+      "net_ppe" : 0.55,
+      "offers" : "",
+      "overallReviewRating" : "7",
+      "phone" : "3109097782",
+      "reviews" : 47,
+      "rootTag" : null,
+      "state" : "CA",
+      "street" : "12021 W Pico Boulevard",
+      "tagline" : "Authentic Indian Cuisine",
+      "type" : "local PFP",
+      "zip" : 90064
+    }
+  ]
+}
